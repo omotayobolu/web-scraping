@@ -1,0 +1,5 @@
+project 1 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED NATIONAL IDENTITY CARD PROCESSING SYSTEM 
+Project Abstract: ABSTRACT This project is aimed at improving along lasting processing and administration system on National Identity card. It is also aimed at keeping records of all processing and administration system for national Identity card with view of modifying it into a full computerized system. the study covers the areas of application entry, record verification, list generation, code numbering and maintenance of the managed information. The new system developed is very ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-national-identity-card-processing-system/ 

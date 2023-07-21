@@ -1,0 +1,5 @@
+project 20 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED EMPLOYEE CLOCKING SYSTEM 
+Project Abstract: Abstract Clocking systems are time system used in any firm to accurately record the number of hours worked by each staff or the work force of an employee on daily basics. This system is design in such a way that it will also calculate the salary of the staff, his allowance and his over time with accuracy based on the work force of the staff or his work hours. This ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-employee-clocking-system-2/ 

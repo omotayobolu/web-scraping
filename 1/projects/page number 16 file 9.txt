@@ -1,0 +1,5 @@
+project 9 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF AMBULANCE DISPATCH SYSTEM 
+Project Abstract: ABSTRACT Ambulance dispatch system (ADS). This is a software that is needed to help ensure that the ambulance dispatching company meets all federal mandates about the speed at which an ambulance is dispatched. In order to made this possible, the system greatly decreases the amount of paperwork that must be filed. This system shall also help the company ensure that they are providing an adequate amount of ambulance for each ... 
+Project link: https://project4topics.com/design-and-implementation-of-ambulance-dispatch-system-2/ 

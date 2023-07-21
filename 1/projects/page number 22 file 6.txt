@@ -1,0 +1,5 @@
+project 6 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERISED STAFF ATTENDANCE SYSTEM WITH FINGER PRINTING TECHNOLOGY 
+Project Abstract: ABSTRACT The Design and Implementation of Staff Attendance system is an academic work which aims in developing a computerized system to maintain the attendance of Staff in a company. Attendance in an organization is important to ensure the continuous operation. Aiming at the disadvantages of traditional pen and paper attendance system, an Integrated Staff Attendance System (ISAS) is proposed. ISAS is a system used to record the present of staffs ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerised-staff-attendance-system-with-finger-printing-technology-2/ 

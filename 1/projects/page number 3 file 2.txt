@@ -1,0 +1,5 @@
+project 2 on page 3 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE STADIUM MANAGAMENT INFORMATION SYSTEM 
+Project Abstract:   ABSTRACT An online stadium management information system for the Godswill Akpabio International stadium Uyo, was be developed in this project. The current process of management at the Godswill Akpabio International Stadium is being operated manually and due to this procedure numerous problems are being encountered. The system is developed in order to tackle these problems encountered by the use of the conventional manual registration and ticket procurement. This system ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-stadium-managament-information-system/ 

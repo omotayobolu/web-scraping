@@ -1,0 +1,5 @@
+project 10 on page 13 
+
+Project title: DESIGN AND IMPLEMENTATION OF A BILL OF MATERIALS PROCESSING SYSTEM 
+Project Abstract: ABSTRACT With the trend of technology growth in the world of today, virtually every facet of human work has been affected; even the remotest of it all, and the production circle cannot be left out.  This study was carried out to verify all the manual processes involved in bill-of-material processing system and to seek a way of automating the system for effective operations. Since there is continuous moves towards technological ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-bill-of-materials-processing-system-2/ 

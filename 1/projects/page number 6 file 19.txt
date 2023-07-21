@@ -1,0 +1,5 @@
+project 19 on page 6 
+
+Project title: COOPERATIVE THRIFT AND CREDIT SOCIETY SYSTEM (CTCSS) 
+Project Abstract: Abstract This project work aimed at developing a Cooperative Thrift and Credit Society System (CTCSS) for Cooperative Societies. A preliminary investigation of the existing manual system was carried out and a web-based software was designed and developed. We made use of the C# programming language pronounced as C sharp on the ASP .NET platform in visual studio integrated development environment (IDE) and Microsoft SQL Server was used for the database ... 
+Project link: https://project4topics.com/cooperative-thrift-and-credit-society-system-ctcss/ 

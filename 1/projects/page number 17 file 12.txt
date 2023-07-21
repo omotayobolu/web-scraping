@@ -1,0 +1,5 @@
+project 12 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF A WEB BASED LEAVE MANAGEMENT SYSTEM 
+Project Abstract: Abstract Aladumo International Schools is using a complete automated system for all of its banking sections including General Banking, Credit and finance, Cash and Foreign Trade. But their Leave Management System is totally manual and it takes a long time to process a leave request. In the current system a leave application has to go through a long chain of officials and as a result, several times the competent authorities ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-web-based-leave-management-system-2/ 

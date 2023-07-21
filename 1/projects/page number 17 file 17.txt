@@ -1,0 +1,5 @@
+project 17 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ELECTRONIC VOTING SYSTEM WITH FINGERPRINT AUTHENTICATION 
+Project Abstract: CHAPTER ONE BACKGROUND OF STUDY 1.0       Background of the Study Voting theory formally began in the 18th century and ever since, many proposal has been made towards using electronic technologies to improve elections (Sobia, Ummer, Ayesha, Usman, and Hassan, 2011). One of the essential features of democracy is Election, democracy encourages individual’s freedom with respect to the rule of law, so that individuals can express their opinion the way they wish, ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-electronic-voting-system-with-fingerprint-authentication-2/ 

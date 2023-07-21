@@ -1,0 +1,5 @@
+project 3 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF REAL TIME DISASTER AND INFERNO REPORT MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background To The Study Online disaster report and management system  is a web based application that enables organization to observe, analyze, and store information of disasters. The system is basically design to benefit modern technology to standardize, organize and manage the data and information about fire disasters. Most of the fire service stations in this century most especially our case study, their current system of storing ... 
+Project link: https://project4topics.com/design-and-implementation-of-real-time-disaster-and-inferno-report-management-system/ 

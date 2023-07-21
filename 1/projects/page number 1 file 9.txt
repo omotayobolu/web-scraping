@@ -1,0 +1,5 @@
+project 9 on page 1 
+
+Project title: DEVELOPMENT OF A MODEL OF AN IMPROVED SCALABLE RESOURCE MANAGEMENT SYSTEM FOR HADOOP- YET ANOTHER RESOURCE NEGOTIATOR (YARN) 
+Project Abstract: ABSTRACT The growing popularity of cloud computing and advances in ICT today, continuous increase in the volume of data and its computational capacity has generated an overwhelming flow of data now referred to as big data. This computational capacity has exceeded the capabilities of conventional processing tools like Relational Database Management System. Big data has brought in an era of data exploration and utilization with MapReduce computational paradigm as its ... 
+Project link: https://project4topics.com/development-of-a-model-of-an-improved-scalable-resource-management-system-for-hadoop-yet-another-resource-negotiator-yarn/ 

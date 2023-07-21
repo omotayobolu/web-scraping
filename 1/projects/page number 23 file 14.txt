@@ -1,0 +1,5 @@
+project 14 on page 23 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED STUDENT INFORMATION TRACKING SYSTEM 
+Project Abstract:  ABSTRACT Student information tracking system is a system designed to computerize the process of student information records considering the problems faced by doing this manually. The system was studied and relevant officials were interview to acquire the required data. This designed system allows easily information retrieval of accurate information for effective and efficient allocations. Easy maintenance of information integrity as well as time saving and reduction in operation. The system ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-student-information-tracking-system-4/ 

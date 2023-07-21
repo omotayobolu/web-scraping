@@ -1,0 +1,5 @@
+project 8 on page 5 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE STUDENT OFF CAMPUS ACCOMMODATION INFORMATION SYSTEM 
+Project Abstract: Abstract Managing the student’s accommodation application process is a complex and time-sensitive task. This research work deals with the problems of managing and allocating off campus students off campus accommodations to students and to avoid the problems which occur when carried out manually. The aim of this research work “Design and implementation of online student off campus accommodation information system” is to develop a web based system with a central ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-student-off-campus-accommodation-information-system/ 

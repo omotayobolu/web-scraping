@@ -1,0 +1,5 @@
+project 2 on page 5 
+
+Project title: DESIGN AND IMPLEMENTATION OF A FOOTBALL STADIUM TICKET ACQUSITION AND RESERVATION SYSTEM 
+Project Abstract: Abstract This research study focused on design and implementation of a football stadium ticket acquisition and reservation system, using Ibom International Stadium, Uyo as a case study. Football stadiums are in the business of reserving seats whenever there is a major football event to be held in the stadium. To efficiently allocate seats to as many that attend the game, there is need for an automated system that will ensure ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-football-stadium-ticket-acqusition-and-reservation-system/ 

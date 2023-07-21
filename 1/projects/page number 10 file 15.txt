@@ -1,0 +1,5 @@
+project 15 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF A WEBSITE 
+Project Abstract: CHAPTER ONE BACKGROUND OF THE STUDY 1.1   INTRODUCTION Web Design is a process of conceptualization, planning, modelling, and execution of electronic media content delivery via internet in the form of technologies (such as mark languages) suitable for interpretation and display by a web browser or other web-based graphical user interfaces (GUIs). The intent of web design is to create a website (a collection of electronic files residing on one or more ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-website-4/ 

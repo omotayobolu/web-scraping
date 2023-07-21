@@ -1,0 +1,5 @@
+project 12 on page 5 
+
+Project title: DESIGN AND CONSTRUCTION OF DIGITAL DISTANCE MEASURING INSTRUMENT 
+Project Abstract: ABSTRACT Distance measurement plays a vital role in engineering, science and business. The distance is always measured between two points. Generally distance measurement is possible only by making contact with the target whose distance is to be measured, but this project discusses the measurement of distance by digital measuring instrument. This is done by providing a circular object (wheel) of about one meter in circumference. Here the distance is calculated ... 
+Project link: https://project4topics.com/design-and-construction-of-digital-distance-measuring-instrument/ 

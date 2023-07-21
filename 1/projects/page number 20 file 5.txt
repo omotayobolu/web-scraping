@@ -1,0 +1,5 @@
+project 5 on page 20 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED STADIUM MANAGEMENT INFORMATION SYSTEM 
+Project Abstract: CHAPTER ONE BACKGROUND OF THE STUDY 1.1 INTRODUCTION The advent of computer Technology has brought relief to repetitive tasks and has helped in the better management and origination of data.  Information management system can be applied to any system that facilitates storage, management and retrieved of data and information required for some particular application within a computer system.  This makes it easier for data to be handled or managed. The ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-stadium-management-information-system-3/ 

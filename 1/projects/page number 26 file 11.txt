@@ -1,0 +1,5 @@
+project 11 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED DRUG INFORMATION MANAGEMENT SYSTEM DRUG PROCUREMENT AND DISTRIBUTION TRACKING SYSTEM 
+Project Abstract: ABSTRACT Drug procurement and distribution tracking system is a set of computer programs that obtains the supplies of drugs, distribute the drugs and monitors the inventory control of the drugs. Using the pharmaceutical department of Port Harcourt University teaching hospital as a case study, the department using manual method to operate lacks good storage of information system for drugs. Recording system tends to be complex and the method of tracking ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-drug-information-management-system-drug-procurement-and-distribution-tracking-system-2/ 

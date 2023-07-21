@@ -1,0 +1,5 @@
+project 8 on page 27 
+
+Project title: DESIGN AND IMPLEMENTATION OF A POULTRY KEEPING INFORMATION SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0 Introduction A poultry keeping information system is a database software system that can be used to record needed or relevant information pertaining a poultry farm. The system is needed because of the importance associated with adequately monitoring the activities in a poultry farm. Poultry production is a very important source of livelihoods for most rural communities because it provides ready cash for emergency needs, supplies the ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-poultry-keeping-information-system-2/ 

@@ -1,0 +1,5 @@
+project 1 on page 2 
+
+Project title: DESIGN AND IMPLEMENTATION OF AUTOMATED BANKING MODEL SYSTEM 
+Project Abstract: ABSTRACT All commercial application developed (irrespective of the programming environment used) are to business models. Applications help to computerize business models. It is the computerization process that empowers a business model to capture, validate, store and manipulate business data at the highest speed possible. A microfinance Banking business model has business processes that manipulate data associated with savings accounts, current account, deposits and withdrawals for each type of account, fixed ... 
+Project link: https://project4topics.com/design-and-implementation-of-automated-banking-model-system/ 

@@ -1,0 +1,5 @@
+project 13 on page 27 
+
+Project title: DESIGN AND IMPLEMENTATION OF AUTOMATED WATER BILLING UTILITY SERVICE 
+Project Abstract: CHAPTER ONE INTRODUCTION Introduction Effective billing and collection systems are a critical component for ensuring the viability of a service provider. Improving billing and collection activities has an immediate impact on the revenue streams of a service provider that can, in turn, help the service provider in improving services. However, while effective billing and collection practices depend on many internal factors (including customer databases, the extent of metered and unmetered ... 
+Project link: https://project4topics.com/design-and-implementation-of-automated-water-billing-utility-service-2/ 

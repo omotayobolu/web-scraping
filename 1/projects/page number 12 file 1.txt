@@ -1,0 +1,5 @@
+project 1 on page 12 
+
+Project title: DESIGN AND IMPLEMENTATION OF EXAMINATION TIMETABLING SOFTWARE USING GENERIC ALGORITHMS AND SIMULATED ANNEALING 
+Project Abstract: The difficulties of developing appropriate examination time table for institutions and tertiary is increasing. Institutions are enrolling more students into wider variety of courses in many different fields. For example, at Osun State Polytechnic, Iree, approximately 14,000 students have to be filled into about 150 exams over two and a half week period. The examination timetable problem regards the scheduling for the exams of a set of polytechnic courses, avoiding ... 
+Project link: https://project4topics.com/design-and-implementation-of-examination-timetabling-software-using-generic-algorithms-and-simulated-annealing-4/ 

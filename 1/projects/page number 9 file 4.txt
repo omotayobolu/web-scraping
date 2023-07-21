@@ -1,0 +1,5 @@
+project 4 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF STATE CIVIL SERVICE PAYROLL ACCOUNTING SYSTEM 
+Project Abstract: ABSTRACT Ever since man discovered the computer and hence computer science, attempt have been made to computerize every facet of human life. This project work experts the issue of designing and implementing a state civil payroll accounting system which inherent advantages (speed and accuracy over the more tedious inefficient and time consuming manual system. This system encountered the following problems. Late receipt of raw data each month. Regular break down ... 
+Project link: https://project4topics.com/design-and-implementation-of-state-civil-service-payroll-accounting-system-4/ 

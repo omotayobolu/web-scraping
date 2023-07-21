@@ -1,0 +1,5 @@
+project 20 on page 20 
+
+Project title: DESIGN AND IMPLEMENTATION OF INFORMATION MANAGEMENT SYSTEM FOR COMPUTER SCIENCE DEPARTMENT 
+Project Abstract: CHAPTER ONE 1.0 INTRODUCTION Information systems have become the backbone of most organizations. Banks could not process payments, governments could not collect taxes, hospitals could not treat patients, and supermarkets could not stock their shelves without the support of information systems. In almost every sector—education, finance, government, health care, manufacturing, and businesses large and small—information systems play a prominent role. Every day work, communication, information gathering, and decision making all ... 
+Project link: https://project4topics.com/design-and-implementation-of-information-management-system-for-computer-science-department-2/ 

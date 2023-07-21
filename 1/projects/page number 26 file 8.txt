@@ -1,0 +1,5 @@
+project 8 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF A DIGITAL LIBRARY SYSTEM 
+Project Abstract: ABSTRACT Libraries have been an important part of educational and information sector of any school.  The success of any library largely depends on proper management. Several libraries have suffered failure as a result of inadequate management and incapacitations in handling sensitive information as regards members of the library. This research therefore, aimed at developing a digital library system, which will help direct and position library to meets its ever increasing ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-digital-library-system-3/ 

@@ -1,0 +1,5 @@
+project 5 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE STUDENT CLEARANCE SYSTEM USING DATA MINING TECHNIQUES 
+Project Abstract: CHAPTER ONE 1.0 Introduction Data mining, is the extraction of hidden predictive information from large database, is a powerful new technology with great potential to help companies focus on the most important information in their data warehouses. Data mining tools predict future trends and behaviors, allowing businesses to make proactive, knowledge driven decisions. The automated, prospective analysis offered by data mining move beyond the analyses of past events provided by ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-student-clearance-system-using-data-mining-techniques-4/ 

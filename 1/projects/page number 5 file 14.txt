@@ -1,0 +1,5 @@
+project 14 on page 5 
+
+Project title: DESIGN AND IMPLEMENTATION OF A CREDIT CARD FRAUD DETECTION SYSTEM 
+Project Abstract: ABSTRACT All over the world, the most accepted payment mode is via credit card for both online and offline payments in today’s world, it helps implement the cashless policy for shopping at every shop across the country. It is the most convenient method to do shopping on the internet, and also for paying utility bills etc. Hence, increasing the risks of credit card fraud transaction. In the existing manual credit ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-credit-card-fraud-detention-system/ 

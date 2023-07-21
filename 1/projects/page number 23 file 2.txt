@@ -1,0 +1,5 @@
+project 2 on page 23 
+
+Project title: DESIGN AND IMPLEMENTATION OF A DATA COMPRESSION SOFTWARE 
+Project Abstract: INTRODUCTION In recent times, there has been a great need driven towards the maximizing of data transfer between communication terminals thereby making efficient use of network bandwidth and disk space. Compression is the process used to reduce the physical size of a block of information. Data encoding is the term used to refer to algorithms that    perform compression. Data compression is a type of data encoding. Doyle and Carlson (2000) ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-data-compression-software-2/ 

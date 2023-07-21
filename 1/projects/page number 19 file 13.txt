@@ -1,0 +1,5 @@
+project 13 on page 19 
+
+Project title: DESIGN AND EXPLORATION OF A COMPUTERIZED POINT OF SALES (POS) SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 THE BACKGROUND OF THE STUDY Point of sale (POS) (also sometimes referred to as Point of purchase (POP) or checkout is the location where a transaction occurs. A "checkout" refers to a POS terminal or more generally to the hardware and software used for checkouts. Most large retail stores have migrated from the old trusty cash register to more modern computerized point of sale (POS) systems. ... 
+Project link: https://project4topics.com/design-and-exploration-of-a-computerized-point-of-sales-pos-system-2/ 

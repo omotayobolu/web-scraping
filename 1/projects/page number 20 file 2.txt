@@ -1,0 +1,5 @@
+project 2 on page 20 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE SHOPPING WEBSITE FOR GENTLEMEN CLOTHING 
+Project Abstract: ABSTRACT The Project Online shopping website for gentlemen clothing is a complete multi-user website. The system helps in buying of goods, products and services online by choosing the listed products from website (E-Commerce site). This system provides an efficient way of adding almost all the features of the online shopping; the future implementation will be online help for the customers and chatting with website in charge. In the cause of ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-shopping-website-for-gentlemen-clothing-2/ 

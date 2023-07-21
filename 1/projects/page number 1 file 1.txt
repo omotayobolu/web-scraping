@@ -1,0 +1,5 @@
+project 1 on page 1 
+
+Project title: DESIGN AND SIMULATION OF SECURE VIRTUAL PRIVATE NETWORK (VPN) OVER AN OPEN NETWORK (INTERNET) INFRATRUCTURE 
+Project Abstract: ABSTRACT The world has changed a lot in the last couple of decades. Instead of simply dealing with local or regional concerns, many businesses now have to think about global markets and logistics. Many companies have facilities spread out across the country or around the world, and there is one thing that all of them need, a way to maintain cost effective, fast, secure and reliable communications wherever their offices ... 
+Project link: https://project4topics.com/design-and-simulation-of-secure-virtual-private-network-vpn-over-an-open-network-internet-infratructure/ 

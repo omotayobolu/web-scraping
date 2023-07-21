@@ -1,0 +1,5 @@
+project 8 on page 23 
+
+Project title: DESIGN AND IMPLEMENTATION OF STUDENT EVALUATION PROGRAM 
+Project Abstract: ABSTRACT Student achievement is profoundly influenced by the evaluation practice used by teachers in the classroom. Research in education has consistently shown achievement monitoring and feedback to be extremely important factors in the teaching learning process. This project is designed with the help of computer base program that has five sub systems: the file sub system that helps the administrator to change their password and also register new students, compute ... 
+Project link: https://project4topics.com/design-and-implementation-of-student-evaluation-program-2/ 

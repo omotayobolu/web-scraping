@@ -1,0 +1,5 @@
+project 8 on page 22 
+
+Project title: DESIGN AND DEVELOPMENT OF AN E-BILLING SYSTEM 
+Project Abstract: ABSTRACT The project is to create an application that should provide service to the user, collect user usage records, and generate invoices of each credit expire, each billing cycle depends on the billing type, collect payments and adjust customers' balances. The e-Billing system has the capacity to illustrate and analyze the basic billing system and the main functionalities that surround the billing system from a business prospective and explains how ... 
+Project link: https://project4topics.com/design-and-development-of-an-e-billing-system-2/ 

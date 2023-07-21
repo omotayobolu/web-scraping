@@ -1,0 +1,5 @@
+project 3 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED INVENTORY CONTROL SYSTEM 
+Project Abstract: ABSTRACT This research work is concise and generally summarizes the activities duly carried out in the design and implementation of a computerized inventory control system for a manufacturing organization. The system is designed to efficiently handle the movement and tracking of goods through the replacement of human workers by technology. The manual method or intervention is labour intensive, costly, and error prone and cannot ensure the inventory remains up-to-date due ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-inventory-control-system-5/ 

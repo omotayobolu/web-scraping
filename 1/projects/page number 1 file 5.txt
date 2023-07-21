@@ -1,0 +1,5 @@
+project 5 on page 1 
+
+Project title: DEVELOPMENT OF SPECTRUM OPTIMIZATION IN WHITE SPACES USING SPECTRUM SENSING AND GEOLOCATION TECHNIQUES 
+Project Abstract: ABSTRACT Today, wireless networks are characterized by a static spectrum assignment policy. Day after day, there has been an increasing demand in this technological area due to its benefits to human activities and exploration. This spectacular growth in wireless services had also resulted to an increase in spectrum demand to meet up with the human quest. However, an increase in voice demand has been experienced as more people unplug their ... 
+Project link: https://project4topics.com/development-of-spectrum-optimization-in-white-spaces-using-spectrum-sensing-and-geolocation-techniques/ 

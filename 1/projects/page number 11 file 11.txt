@@ -1,0 +1,5 @@
+project 11 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF A FIXED ASSET MANAGEMENT INFORMATION SYSTEM 
+Project Abstract: ABSTRACT With the rapid development in Computer Technology, most organization have embraced the use of computer resources in its activities to enable them achieve its set down objectives. Electronic data processing is a wonderful tool which is used extensively in financial accounting to implore performance and accuracy. The principle aims of a fixed asset management information system is to create automatic, understandable and efficient system that will eliminate the problems ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-fixed-asset-management-information-system-3/ 

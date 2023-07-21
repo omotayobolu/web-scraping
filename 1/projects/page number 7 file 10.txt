@@ -1,0 +1,5 @@
+project 10 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF PRODUCTS EXPIRY ALERT MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT There are many products management systems which has realized the documentation and control of large goods, so as to facilitate the management and decision of sales, and reduce a big burden for managers. These systems hardly notify the users of any product about to expire or has expired. which has led to loss of goods due to expiration. This project, product expiry alert management helps to improve the work ... 
+Project link: https://project4topics.com/design-and-implementation-of-products-expiry-alert-management-system/ 

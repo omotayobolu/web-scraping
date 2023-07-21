@@ -1,0 +1,5 @@
+project 4 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF FINGERPRINT VERIFICATION SYSTEM FOR CRIME 
+Project Abstract: CHAPTER ONE 1.1   Introduction Reliable criminal suspects’ recognition is an important problem in crime investigation process. Biometrics recognition is becoming an irreplaceable part of many identification systems. While successful in some niche markets, the biometrics technology has not yet delivered its promise of full proof automatic crime suspects’ recognition, especially in a developing country like Nigeria. The study proposes and implements a biometrics-based crime investigation system using a fingerprint ... 
+Project link: https://project4topics.com/design-and-implementation-of-fingerprint-verification-system-for-crime-3/ 

@@ -1,0 +1,5 @@
+project 7 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN AUTOMATED CAR-HIRING INFORMATION SYSTEM 
+Project Abstract: Abstract Nowadays, there are online car hiring services give much benefit to users in modern society. The existing of this manual system can overcome the problem of availability and provide convenience to the user in hiring, car. The manual Car Hiring System provides services only during office hour. So, customers have limited time to make any transactions or reservation of the cars. The existence of the online Car Hiring Systems ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-automated-car-hiring-information-system/ 

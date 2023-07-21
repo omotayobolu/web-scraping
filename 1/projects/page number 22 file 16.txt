@@ -1,0 +1,5 @@
+project 16 on page 22 
+
+Project title: COMPUTERIZED PATIENT DIAGNOSIS SYSTEM 
+Project Abstract: INTRODUCTION In an attempt to alleviate the problem of medial diagnosis and to increase its affiance computerized patient diagnosis is development to assist doctor in diagnosing. The computerized patient diagnosis has the following features. i.  Quick retrieval of information about patient ii  Effective security measure for information protection ii  High degree of accuracy in diagnosing patient disease. This ensures provision of efficient medical services. It reduces life loss and damage ... 
+Project link: https://project4topics.com/computerized-patient-diagnosis-system-2/ 

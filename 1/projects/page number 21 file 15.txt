@@ -1,0 +1,5 @@
+project 15 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED WAREHOUSE MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION: This chapter gives an overview about the aim, objectives, background and operation environment of the system. 1.1 BACKGROUND OF THE STUDY Library Management System is an application which refers to library systems which are generally small or medium in size. It is used by librarian to manage the library using a computerized system where he/she can record various transactions like issue of books, return of books, addition ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-warehouse-management-system-2/ 

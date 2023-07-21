@@ -1,0 +1,5 @@
+project 15 on page 19 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED BANKING 
+Project Abstract: ABSTRACT In this world of competitive resource application and technological development, the banks have been totally computerized. This project work Design and Implementation of computerized banking system is concerned with the analysis and design of a computerized system aimed at supporting the whole banking operation provides an interface which enables the user or the customer to lodge in money into his or her account and make withdrawals as the need ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-banking-2/ 

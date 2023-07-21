@@ -1,0 +1,5 @@
+project 17 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE CASH RECEIPT GENERATION SYSTEM FOR A SUPERMARKET 
+Project Abstract: ABSTRACT This project work, is a computerization of cash receipt system of an organization. It entails maintaining database files of different sources of receipt whose scope and limitation are based on. Sales and purchases Receipts/Invoices inquiry on Total Balance and generation of report. But before we venture into that, attention should be drawn to the introductory part, the literature review and later the analysis of the existing system and the ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-cash-receipt-generation-system-for-a-supermarket/ 

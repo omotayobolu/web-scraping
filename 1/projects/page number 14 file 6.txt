@@ -1,0 +1,5 @@
+project 6 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF A PROTOTYPE STUDENT PERFORMANCE EVALUATION SYSTEM 
+Project Abstract: ABSTRACT Performance evaluation of students in institution is a necessity and this is done based on the Grading system adopted by a school. Computation of Grade point average (GPA) is done manually and this is time consuming and tedious. This project views the present system of computing GPA and attempts to convert the process from the manual one into a computerized one in order to reduce time spent in computing ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-prototype-student-performance-evaluation-system-2/ 

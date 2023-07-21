@@ -1,0 +1,5 @@
+project 14 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF A WEB BASE OFFICE MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1         BACKGROUND OF STUDY Virtually all software used in enterprises today has the same goal which is supporting business processes. Some processes are entirely automated, relying solely on communication among applications, others probably rely on people to initiate the process, approve documents the process uses and resolve any exceptional situations that arise like incomplete information. In either case, it’s often possible to specify a discrete series of steps known as workflow that describe the activities of the people and software involved in ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-web-base-office-management-system/ 

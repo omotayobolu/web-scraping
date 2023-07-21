@@ -1,0 +1,5 @@
+project 3 on page 27 
+
+Project title: DESIGN AND IMPLEMENTATION OF A FOOTBALL STADIUM TICKET ACQUISITION AND RESERVATION SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0 Introduction Stadium is a centerpiece for the hosting of major events especially sport events such as football. It is one thing to have a stadium, and it’s another thing to manage it. Ticket acquisition is a vital aspect of stadium management. The system can also be considered to be a critical one, as the failure of it would result in significant financial loss for the company ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-football-stadium-ticket-acquisition-and-reservation-system-2/ 

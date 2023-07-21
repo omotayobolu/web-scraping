@@ -1,0 +1,5 @@
+project 9 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF DATA MINING FOR MEDICAL RECORD SYSTEM 
+Project Abstract: ABSTRACT Data mining is the extraction of hidden predictive information from large database which helps in predicting future trend and behavior thereby helping management make knowledge driven decisions. The data mining tool designed is to aid in quick access and retrieval of patients information to avoid time wasted in retrieving of such data from hospitals data warehouse. The data mining tool was also designed to discover hidden pattern that helps ... 
+Project link: https://project4topics.com/design-and-implementation-of-data-mining-for-medical-record-system/ 

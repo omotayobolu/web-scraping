@@ -1,0 +1,5 @@
+project 12 on page 1 
+
+Project title: DESIGN OF MODEL FOR OBJECT-ORIENTED DATABASE AND CLASS OBJECT COMMUNICATION IN DATA STORAGE SYSTEM 
+Project Abstract: ABSTRACT Object data are complex and are difficult to manipulate in databases. Many efforts have been made to solve the problem but yet the complexity tends to increase due to the increased availability and usage of object data. The need to improve the storage of object data, object-process communication in a data storage system and the development of a formal model for object-oriented database systems and its application in system ... 
+Project link: https://project4topics.com/design-of-model-for-object-oriented-database-and-class-object-communication-in-data-storage-system/ 

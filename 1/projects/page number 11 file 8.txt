@@ -1,0 +1,5 @@
+project 8 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF GAS DETECTION SYSTEM 
+Project Abstract: ABSTRACT Gas is supplied in pressurized steel cylinders. As this gas is heavier than air, when it leaks from the cylinder it flows along floor and tends to settle in low spots such as a basement to cause fire or suffocation if not dealt with. To handle gas leak situations, this project presents the design and construction of a Gas detection system. A gas detection system is an electronic device ... 
+Project link: https://project4topics.com/design-and-implementation-of-gas-detection-system/ 

@@ -1,0 +1,5 @@
+project 2 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE INDUSTRIAL TRAINING FUND PAYMENT SYSTEM 
+Project Abstract: ABSTRACT It is pertinent to say that students are encountering problems in receiving their industrial training allowance. As a computer science student, we have to take the lead while others follow. Setting the pace in everything that has to do with computing is what matters so long as I am concern. In a bid to put a stop to that, I have decided to develop a workable website for the ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-industrial-training-fund-payment-system-4/ 

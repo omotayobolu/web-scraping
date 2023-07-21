@@ -1,0 +1,5 @@
+project 18 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN INTRUSION TOLERANT SYSTEM 
+Project Abstract: INTRODUCTION 1.1    INTRODUCTION Most current information systems are connected to the Internet for efficiency and convenience. However, the growth of accessibility makes the systems vulnerable to attackers. A web server is a program that runs over the Hyper Text Transfer Protocol which has client-server mode to serve clients with files and other details which are stored on the server. The web server is currently the most widely deployed type of ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-intrusion-tolerant-system-4/ 

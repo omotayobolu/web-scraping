@@ -1,0 +1,5 @@
+project 5 on page 6 
+
+Project title: AUTOMATED COVID-19 CONTACT TRACING USING MOBILE APPLICATION 
+Project Abstract: This automated mobile phone app would record the owner’s contact with other app users. If an app user is diagnosed with the virus, their recent contacts would receive messages advising them to isolate. It’s a strategy with obvious negative implications for people’s privacy, This application is nonetheless worth pursuing given the failure of current contact-tracing methods, the already widespread nature of the virus, and the fact that the app would ... 
+Project link: https://project4topics.com/automated-covid-19-contact-tracing-using-mobile-application/ 

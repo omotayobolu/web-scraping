@@ -1,0 +1,5 @@
+project 2 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN EXPERT SYSTEM ON MEDICAL DIAGNOSES AND PRESCRIPTION 
+Project Abstract: INTRODUCTION As the need of system almost every activity man can perform increase, software for the admission of students into polytechnics should not be left out. This software can process the credentials of 1000 credentials in about 20 minutes higher one computer operator if provided with the required data and this would have taken about 4 people 12 hours to do. This project was borne out of the necessite to ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-expert-system-on-medical-diagnoses-and-prescription-2/ 

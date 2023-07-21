@@ -1,0 +1,5 @@
+project 20 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF TEXT TO SPEECH APPLICATION FOR VISION IMPAIRED STUDENTS 
+Project Abstract: ABSTRACT A Text-to-speech application is a synthesizer software that converts text into spoken word, by analyzing and processing the text using Natural Language Processing (NLP) and then using Digital Signal Processing (DSP) technology to convert this processed text into synthesized speech representation of the text. The vision impaired students makes a lot of mistake during typing because they just assume whatever there are typing is right, this lead to the ... 
+Project link: https://project4topics.com/design-and-implementation-of-text-to-speech-application-for-vision-impaired-students-3/ 

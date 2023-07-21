@@ -1,0 +1,5 @@
+project 15 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED TAX EVALUATION SYSTEM FOR CIVIL SERVANTS 
+Project Abstract: ABSTRACT It is often easy to collect data about objectives of persons. However subsequent processing of such data presents problems especially when it involves numerous computations and retrieval of information. In the manual processing of large volumes of data too many mistakes can be made and much time wasted because of the ardors and cumbersome nature of associated tasks. This project is aimed at the design and implementation of tax ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-tax-evaluation-system-for-civil-servants-2/ 

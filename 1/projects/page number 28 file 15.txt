@@ -1,0 +1,5 @@
+project 15 on page 28 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN HOSPITAL BILLING SYSTEM 
+Project Abstract: ABSTRACT This project was centered on Hospital Billing information system. The current process of keeping records of patients is being operated manually and due to this procedure numerous problem are been encountered. A design was taken to computerized the manual process in order to check this problem. The problems were identified after series of interviews and examination of documents after which analysis was made and a computerized procedure recommended. This ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-hospital-billing-system-2/ 

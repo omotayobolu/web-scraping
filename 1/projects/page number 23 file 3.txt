@@ -1,0 +1,5 @@
+project 3 on page 23 
+
+Project title: DESIGN AND IMPLEMENTATION OF A GIS BASED TRAFFIC MANAGEMENT SYSTEM AND EMERGENCY RESPONSE MANAGEMENT SYSTEM 
+Project Abstract: INTRODUCTION The state of the traffic system is influenced by travel demand and traffic supply characteristics. Travel demand is defined by Roess et al. (1998) as the number of vehicles or people that desire to travel past a point during a specified period. The main traffic supply characteristic that influences traffic system performance is capacity. Capacity is defined as the maximum number of vehicles or persons that can reasonably be ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-gis-based-traffic-management-system-and-emergency-response-management-system/ 

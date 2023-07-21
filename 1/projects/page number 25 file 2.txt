@@ -1,0 +1,5 @@
+project 2 on page 25 
+
+Project title: DESIGN AND IMPLEMENTATION OF NETWORK ACTIVITY MONITORING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Attacks on computer by outside intruder are more publicized but the ones perpetrated by insiders are very common and often more damaging. Insiders represent the greatest threat to computer security because they understand their organization’s business and how their computer systems work. They have both the confidentiality and access to perform these attacks. An inside attack will have a higher probability of successfully breaking into the system ... 
+Project link: https://project4topics.com/design-and-implementation-of-network-activity-monitoring-system/ 

@@ -1,0 +1,5 @@
+project 1 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED AIRPLANE PASSENGER MANIFEST INFORMATION 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 OVERVIEW OF THE EXISTING SYSTEM This passenger manifest information (PMI) is a kind of records that help individual flight to organized their passenger in a flight. This record in the flight. This record help them to know the members of passenger in the flight, without their records they can known the numbers of passenger in the flight. So the passenger manifest information contained the: (1) Full ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-airplane-passenger-manifest-information-3/ 

@@ -1,0 +1,5 @@
+project 8 on page 8 
+
+Project title: DESIGN, IMPLEMENTATION AND SIMULATION OF PREPAID METER, THEFT MONITORING SYSTEM WITH SMS ALERT 
+Project Abstract: ABSTRACT A prepaid meter monitoring system with SMS alert is designed simulated and constructed using microcontroller to achieve a unique transmission of SMS messages to designated mobile phone numbers.  The work is a response to the  need to checkmate commercial energy losses in utility electrical distribution system. The system utilizes a normally open micro-switch incorporated into the monitoring system to detect when the prepaid meter cover is opened. The system ... 
+Project link: https://project4topics.com/design-implementation-and-simulation-of-prepaid-meter-theft-monitoring-system-with-sms-alert/ 

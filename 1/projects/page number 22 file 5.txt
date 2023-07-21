@@ -1,0 +1,5 @@
+project 5 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE STORE MANAGEMENT SYSTEM 
+Project Abstract: Abstract The research work Online Store Management System includes ales, stock keeping, warehouse management, staff update, vendors update and management, clients management and point of sales (POS). This work was done as a result to solve the problems usually encountered in most companies. The Store Management System was achieved using two programming environment: PHP and MYSQL, with php as front-end and mysql as the backend database. The system can be ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-store-management-system-2/ 

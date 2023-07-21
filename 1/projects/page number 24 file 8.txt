@@ -1,0 +1,5 @@
+project 8 on page 24 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE REGISTRATION OF COURSES AND RESULT CONFIRMATION 
+Project Abstract: ABSTRACT This project work mainly looks into the nature and process of online registration of course and result confirmation, implementing an online management system that keep track of all the records needed by computer students in Federal Polytechnic Nekede Owerri (mainly for only regular i.e. morning student), for easy accessibility to results and online registration of course. The manual system of information management has served for a long time now, ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-registration-of-courses-and-result-confirmation-2/ 

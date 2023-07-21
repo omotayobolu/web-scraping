@@ -1,0 +1,5 @@
+project 6 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ACADEMIC INFORMATION SYSTEM USING RELATIONAL DATABASE AND HTTP SERVER 
+Project Abstract: ABSTRACT In our today activities, most people have some kind of “database” collections of CDs, students’ academic entries, a phonebook of phone numbers and name entries, vehicles parts, records to be processed by a program. With a bit more precision, the term database means a logically coherent collection of related data with inherent meaning, built for a certain application and representing a “mini-word”. A database management system (DBMS) is the ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-academic-information-system-using-relational-database-and-http-server-2/ 

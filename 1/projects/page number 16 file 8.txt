@@ -1,0 +1,5 @@
+project 8 on page 16 
+
+Project title: TRACKING SYSTEM FOR SCHOOL CHILDREN IN NORTH EAST 
+Project Abstract: ABSTRACT Nowadays the world faces security obstacles, the data can be accessed or penetrate easily. Thus we need to ensure the safety of our school children in the North east zone through data monitoring in form of chip. One of trajectories that need data acquisition and collection is tracking system. In this project, the scope of work is to design and implement a real time tracker embedded in the school ... 
+Project link: https://project4topics.com/tracking-system-for-school-children-in-north-east/ 

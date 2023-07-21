@@ -1,0 +1,5 @@
+project 8 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF REAL TIME CURRENT ACCOUNT TRANSACTION PROCESSING SYSTEM 
+Project Abstract: ABSTRACT UBN PLC, is a bank which deals with customers account both current, savings, deposit loan etc. The above-mentioned processes and activities are not only time consuming but also stressful when done manually.  The complexity and strain processes involved.  The work will give birth to a computerized real time current account transaction processing system.  This will facilitate storage of customers’ information as well as withdrawal of money from other branches ... 
+Project link: https://project4topics.com/design-and-implementation-of-real-time-current-account-transaction-processing-system-2/ 

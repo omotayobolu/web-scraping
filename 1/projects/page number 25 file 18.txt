@@ -1,0 +1,5 @@
+project 18 on page 25 
+
+Project title: COMPUTERISED NEWS EDITING SYSTEM 
+Project Abstract: ABSTRACT Those people out there, who are familiar with journalism will better appreciate how difficult it is to produce or develop well edited news . This project Design and implementation of a computerized News Editing system, distinguish itself as it provides solution to the teaming problems facing today’ journalist as for as news editing is concerned. The concept of this project is divided into five (5) chapters which gave an ... 
+Project link: https://project4topics.com/computerised-news-editing-system/ 

@@ -1,0 +1,5 @@
+project 10 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED ACCOUNT MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT This study was carried out to design and implement a software system that will automate the processes involved in account management, particularly in Fine Brothers Abakaliki. Manual accounting systems are characterized by human errors, including mutilation, omission, duplication, miscalculation, etc, as well as wastage of time and energy, data loss, and so on. Moreover, extra cost is incurred in running manual accounting systems because of the need to buy ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-account-management-system/ 

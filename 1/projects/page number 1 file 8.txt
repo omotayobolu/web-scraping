@@ -1,0 +1,5 @@
+project 8 on page 1 
+
+Project title: DEVELOPMENT OF AN ARTIFICIAL INTELLIGENCE GEOINFORMATICS SYSTEM FOR SOLID MINERAL PROSPECTING 
+Project Abstract: ABSTRACT Advanced precision engineering has enabled the development of hyperspectral sensors. These sensors can be used in the collection of highly detailed spectra information from required target using non-intrusive, zero-impact and remote sensing methods. A particular usage is the use of hyperspectral sensors on satellites to obtain information about earth surfaces and minerals beneath the surface. However, the data so-obtained consist of high dimension (hundreds of bands) spectrum that needs ... 
+Project link: https://project4topics.com/development-of-an-artificial-intelligence-geoinformatics-system-for-solid-mineral-prospecting/ 

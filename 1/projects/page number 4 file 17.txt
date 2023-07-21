@@ -1,0 +1,5 @@
+project 17 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF A WEB-BASED SYSTEM FOR DISTANCE LEARNING 
+Project Abstract: ABSTRACT This project is to design a Web-based distance learning system, where instructors and students can participate fully in distance learning activities while geographically separated from each other. This project is aimed to design and implement a distance learning system and use internet as the delivery mode.  This report discusses in detail background research on distance education and different modes of delivery technologies used. It also discusses advantages and disadvantages ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-web-based-system-for-distance-learning/ 

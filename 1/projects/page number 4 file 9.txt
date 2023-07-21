@@ -1,0 +1,5 @@
+project 9 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF RADIO CONTROLLED CAR LOCK WITH 5MIN IGNITION DEACTIVATION 
+Project Abstract: CHAPTER ONE INTRODUCTION BACKGROUND OF THE STUDY The Autonomous Radio Identification Vehicle Locking System is designed to improve vehicle security and accessibility. With the use of wireless technology vehicle owners are able to enter as well as protect their automobiles with more passive involvement. Originally, vehicles were accessed and secured manually by inserting a key into a lock. More recently, a keyless entry system was created which allowed the owner ... 
+Project link: https://project4topics.com/design-and-implementation-of-radio-controlled-car-lock-with-5min-ignition-deactivation/ 

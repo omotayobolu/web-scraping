@@ -1,0 +1,5 @@
+project 15 on page 12 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED DATA SECURITY SYSTEM 
+Project Abstract: ABSTRACT Having discovered the importance of computers in al ranks and aspects of life, computer system is applicable to almost all human activities and has been employed to automats most activities especially in areas were management data is of outmost importance. Due to unauthorized access to data in database, repose disclosure or modification will invade individual process, computers have been produced with an encipher and decipher package in various computer ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-data-security-system-3/ 

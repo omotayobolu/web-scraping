@@ -1,0 +1,5 @@
+project 2 on page 2 
+
+Project title: DESIGN AND DEVELOPMENT OF A WEB BASED STUDENT ACADEMIC ADVISING SYSTEM 
+Project Abstract: ABSTRACT Student academic advising is very important for development of wards in different institutions but always a time-consuming effort in academic life. A Web based Academic advising system has been implemented in order to solve the issues between students and the academic advisers, by making advising more convenient, take complaint from students, evaluate and generate reports, suggest possible answers which is different from the manual way of giving student advise ... 
+Project link: https://project4topics.com/design-and-development-of-a-web-based-student-academic-advising-system/ 

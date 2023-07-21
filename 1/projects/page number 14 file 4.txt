@@ -1,0 +1,5 @@
+project 4 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN AUTOMATED SCHOOL FEES PAYMENT SYSTEM 
+Project Abstract: ABSTRACT Online school fees payment system is a research work that will help build an effective information management system for Osisa polytechnic in the bursary department. The designed software will serve as a more reliable and effective means of paying school fees and removing all forms of delay and stress that is involved in the manual system of school fees processing. This project work made use of data collected from ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-automated-school-fees-payment-system-4/ 

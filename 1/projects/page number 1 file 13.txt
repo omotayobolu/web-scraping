@@ -1,0 +1,5 @@
+project 13 on page 1 
+
+Project title: DESIGN AND IMPLEMENTATION OF CERTAINTY FACTOR REASONING MODEL FOR EYE DISEASE DIAGNOSIS (CFRMFEDD) 
+Project Abstract: ABSTRACT A number of avoidable blindness could have been averted if efficient eye diagnostic system were available and accessible to persons suffering from various eye diseases especially in remote and inaccessible communities where there is no eye doctor or where the eye doctors are reluctant to go. The existing eye diagnostic model uses Bayesian Neural Network which is less efficient in making decisions involving small databases that are mostly prevalent ... 
+Project link: https://project4topics.com/design-and-implementation-of-certainty-factor-reasoning-model-for-eye-disease-diagnosis-cfrmfedd/ 

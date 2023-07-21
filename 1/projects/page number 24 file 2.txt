@@ -1,0 +1,5 @@
+project 2 on page 24 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED CARGO TRANSPORTATION MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT This project was out of the necessity to address the inherent problems encountered by members of staff of super maritime shipping Agency and their customers. The manual process involved in the management of cargo were critical examined and the flows noted. The software so designed offers to a great extent, the solutions to these problems. The project went further to the different techniques used in implementing the newly design ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-cargo-transportation-management-system-3/ 

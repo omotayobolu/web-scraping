@@ -1,0 +1,5 @@
+project 7 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF WEB BASED TIME TABLE FOR COMPUTER SCIENCE DEPARTMENT 
+Project Abstract: CHAPTER ONE INTRODUCTION The academic environment has gone so complex that an automated system may be required to automate certain aspects of the academic system. One such area of difficulty is timetable scheduling; those saddled with the responsibility of time table creation are always faced with challenges of creating effective system that will deliver its purpose. Automation has been seen as a way of enhancing Manual activities. For instance, Manual ... 
+Project link: https://project4topics.com/design-and-implementation-of-web-based-time-table-for-computer-science-department-2/ 

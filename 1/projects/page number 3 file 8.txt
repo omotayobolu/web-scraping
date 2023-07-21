@@ -1,0 +1,5 @@
+project 8 on page 3 
+
+Project title: STUDENTS ACADEMIC PERFORMANCE PREDICTION USING DECISION TREE 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background of the study In an educational system, a large amount of data is kept. This data may be students’ data, alumni data, teachers’ data, non-teaching staff data, resource data, and so on. Educational data mining is used in discovering the patterns in these data for decision-making(EdinOsmanbegovic, 2012). Educational data mining can answer a lot of questions from the patterns obtained from student data, questions such ... 
+Project link: https://project4topics.com/students-academic-performance-prediction-using-decision-tree/ 

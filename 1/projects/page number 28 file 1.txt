@@ -1,0 +1,5 @@
+project 1 on page 28 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE SUPERMARKET SHOPPING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0 Introduction This chapter presents the introduction to the research study under the following headings: Theoretical Background Statement of the problem Aim and objectives of the study Significance of the study Scope of the study Organization of Research Definition of Terms 1.1 Theoretical Background The technologies adopted to implement the system are pHp (Hypertext preprocessor) programming language and MySql database. These technologies were choosen because they are ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-supermarket-shopping-system/ 

@@ -1,0 +1,5 @@
+project 15 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF WEB BASED ACCESS CONTROL SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background Of Study   A web-based access control system has the technical means to provide remote access control and management. Such a system uses Internet protocols (IP) to communicate signals and data. An IP-based access control system is operable both as a hardwired platform and as a wireless solution Becerik, Jazizadeh, Li, and  Calis. (2004) Furthermore, a web-based physical access control system provides an additional layer of security by ... 
+Project link: https://project4topics.com/design-and-implementation-of-web-based-access-control-system/ 

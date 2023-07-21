@@ -1,0 +1,5 @@
+project 8 on page 6 
+
+Project title: IMPLIMENTATION OF WEB-BASED HUMAN RESOURCE MANAGEMENT SYSTEM ON CONSTRUCTION OUT PUT 
+Project Abstract: ABSTRACT The goal of this project was to design and develop a human resource management system for Sabon-Gari Local Government Secretariat. This system was developed to automate the management of employees. Development work included construction of the core system framework, creation and management of employee accounts, design of employee profiles and an integrated hiring process and leave management. The tools used in the implementation of the system are PHP, MySQL, ... 
+Project link: https://project4topics.com/implimentation-of-web-based-human-resource-management-system-on-construction-out-put/ 

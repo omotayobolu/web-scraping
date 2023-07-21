@@ -1,0 +1,5 @@
+project 3 on page 1 
+
+Project title: MODEL FOR EVALUATING THE ADAPTATION OF UNIFIED MODELING LANGUAGE AND UNIFIED PROCESS FOR SOFTWARE DEVELOPMENT 
+Project Abstract: ABSTRACT Modeling software visually is one of the best practices in software engineering. UML has emerged as a bonafide industry standard for software modeling since 1990s. Till today, UML is still the standard notation for developers across industry. The question is, since the evolution of UML as industry standard modeling tool, how far is UML actually being learned and adopted by IT students and professionals in software development. Till the ... 
+Project link: https://project4topics.com/model-for-evaluating-the-adaptation-of-unified-modeling-language-and-unified-process-for-software-development/ 

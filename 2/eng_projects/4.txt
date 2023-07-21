@@ -1,0 +1,3 @@
+Project title: DESIGN AND CONSTRUCTION OF AN INTRUDER DETECTOR FOR OFFICE AND HOME USE 
+Project link: https://project4topics.com/design-and-construction-of-an-intruder-detector-for-office-and-home-use/ 
+Project abstract: ABSTRACT This project deals on the design and construction of an intruder detector for home and office use. Security as one of the biggest issues in our world today and we need a system that will be able to monitor our home, offices and industries by using two sensing circuits, touch and motion sensors. These sensors will cheek for an intruder in two different positions or location and with an ...

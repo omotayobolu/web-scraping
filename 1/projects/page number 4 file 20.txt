@@ -1,0 +1,5 @@
+project 20 on page 4 
+
+Project title: AUTOMATION OF A SECURED COVID-19 PANDEMIC CONTROL WITH DIGITAL CONTACT TRACING 
+Project Abstract: Abstract The newly emergent human virus SARS-CoV-2 is resulting in high fatality rates and incapacitated health systems. Preventing further transmission is a priority. We analyzed key parameters of epidemic spread to estimate the contribution of different transmission routes and determine requirements for case isolation and contact-tracing needed to stop the epidemic. We conclude that viral spread is too fast to be contained by manual contact tracing, but could be controlled ... 
+Project link: https://project4topics.com/automation-of-a-secured-covid-19-pandemic-control-with-digital-contact-tracing/ 

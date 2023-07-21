@@ -1,0 +1,5 @@
+project 11 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE CART SYSTEM FOR ONLINE STORE 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background of the study An E-commerce is the trading in products or services using computer networks, such as the Internet(Wikipedia, 2015). Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. Modern electronic commerce typically uses the World Wide Web for at least one part of the transaction's life cycle, although it may also use other technologies such as e-mail. ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-cart-system-for-online-store-4/ 

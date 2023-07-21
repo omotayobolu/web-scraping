@@ -1,0 +1,5 @@
+project 20 on page 6 
+
+Project title: DESIGN AND IMPLEMENTATION OF A SOFTWARE BASED QUALITY CONTROL SYSTEM 
+Project Abstract:   ABSTRACT The purpose of the study is to computerize quality control system in production (A case study of Anammco Nig. Ltd Enugu) and to develop a computer packages whereby the technique observed from the manual method can be improved on.   It is a known feet that the manual method of quality control in production has been associated with lots of inaccuracy in quality control and this has lead ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-software-based-quality-control-system-3/ 

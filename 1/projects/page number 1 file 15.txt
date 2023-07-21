@@ -1,0 +1,5 @@
+project 15 on page 1 
+
+Project title: DESIGN AND DEVELOPMENT OF AN INTEGRATED MODEL FOR SMALL AND MEDIUM-SCALE ENTERPRISE SYSTEMS 
+Project Abstract: ABSTRACT Developing enterprise systems for various organisations in this world of business transformation is a challenging issue for system developers’ as most business need to adapt to these transformations dynamically and align their processes, information system and technologies to the new requirements. The transformation and alignment requires good strategy and quality architecture. Enterprise architecture (EA) is a coherent whole of principles, methods, and models that are used in the design ... 
+Project link: https://project4topics.com/design-and-development-of-an-integrated-model-for-small-and-medium-scale-enterprise-systems/ 

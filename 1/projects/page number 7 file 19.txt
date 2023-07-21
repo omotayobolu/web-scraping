@@ -1,0 +1,5 @@
+project 19 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTER BASED SCHEDULING SYSTEM FOR A TRANSPORT COMPANY 
+Project Abstract: TABLE OF CONTENTS Title page Certification Dedication Acknowledgement Table of contents Organization of work Abstract CHAPTER ONE INTRODUCTION Purpose of Study Aims and Objectives Scope of Study Limitations of the Study Assumptions Definition of Terms CHAPTER TWO LITERATURE REVIEW Scheduling Concept Scheduling Theory Assumptions of Scheduling Theory Scheduling System for Transport Company Single Channel Schedule Multi Channel Schedule CHAPTER THREE DESCRIPTION AND ANALYSIS OF THE EXISTING SYSTEM Investigation of the ... 
+Project link: https://project4topics.com/design-and-implementation-of-computer-based-scheduling-system-for-a-transport-company-3/ 

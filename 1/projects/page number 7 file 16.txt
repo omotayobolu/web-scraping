@@ -1,0 +1,5 @@
+project 16 on page 7 
+
+Project title: PERFORMANCE EVALUATION OF AN E-VOTING MODEL FOR EFFECTIVE ELECTION SYSTEM 
+Project Abstract: Abstract Voting is an action considered to be fundamental in a democratic setting. E-voting can be referred to as an election that involves using an electronic device for the purpose of casting votes. Lack of transparency and other problems associated with semi-manual method of casting vote in Nigeria has indeed called for a more robust electronic voting system. In this paper, a model for evaluating e-voting system using fuzzy logic ... 
+Project link: https://project4topics.com/downloads/performance-evaluation-of-an-e-voting-model-for-effective-election-system/ 

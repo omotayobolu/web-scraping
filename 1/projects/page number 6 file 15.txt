@@ -1,0 +1,5 @@
+project 15 on page 6 
+
+Project title: SIMULATION OF A QUEUING SYSTEM 
+Project Abstract: Abstract   The project looked into the concept of simulation system that provides method of handling problems, which are difficult or costly to solve analytically. It is also allows the study or learning the behavior of the system. To text hypothesis and design a system that may be available for direct observation or experiment and by applying digital simulation to help find the solutions to problems relating to resources allocations ... 
+Project link: https://project4topics.com/simulation-of-a-queuing-system/ 

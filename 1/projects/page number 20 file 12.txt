@@ -1,0 +1,5 @@
+project 12 on page 20 
+
+Project title: DESIGN AND IMPLEMENTATION OF SUPERMARKET MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1     GENERAL OVERVIEW Supermarket management system is the system where all the aspects related to the proper management of supermarket is done. These aspects involve managing information about the various products, staff, managers, customers, billing etc. This system provides an efficient way of managing the supermarket information. Also allows the customer to purchase and pay for the items purchased. This study is based on the sales ... 
+Project link: https://project4topics.com/design-and-implementation-of-supermarket-management-system/ 

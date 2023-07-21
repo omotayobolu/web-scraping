@@ -1,0 +1,5 @@
+project 3 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED STUDENT REGISTRATION SYSTEM 
+Project Abstract: ABSTRACT This work introduces a computer oriented approach to the registration of students in the admissions department of Institute of Management and Technology (IMT) Enugu as opposed to the Manual process that is currently in use. Although there may be a computer system existing already in the department used for staff and student’s services, it cannot handle the registration of the students since it was not initially designed for this, ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-student-registration-system-2/ 

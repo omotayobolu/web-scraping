@@ -1,0 +1,5 @@
+project 16 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF SIMPLE WORD PROCESSOR 
+Project Abstract: ABSTRACT Designing and implementation are learnt in this project. Computer science course is relatively a new subject, its importance cannot be our emphasized with respect to the designing and implementation in word processing packages either in science, engineering, military business, industry and government. Rate of processing of a proposed form, certification and designing of word  processor even if they design the rate of implementing is very low, since it involves ... 
+Project link: https://project4topics.com/design-and-implementation-of-simple-word-processor-3/ 

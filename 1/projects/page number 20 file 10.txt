@@ -1,0 +1,5 @@
+project 10 on page 20 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED FACE DETECTION AND RECOGNITION SYSTEM 
+Project Abstract: ABSTRACT A society with accurate and updated database of her citizens will face less crime. Imagine a society where citizens know that their faces and personal details are kept somewhere by the police or other relevant security agencies. The individual will maintain peace and order as he/she knows any crime committed by him/her will eventually lead to his/her arrest once his/her picture is captured by a secret camera. Faced with ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-face-detection-and-recognition-system-2/ 

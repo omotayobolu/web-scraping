@@ -1,0 +1,5 @@
+project 9 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF A SOFTWARE FOR EXAMINATION SUPERVISION SCHEDULING FOR AN INSTITUTION OF HIGHER LEARNING 
+Project Abstract: ABSTRACT This project aims at automating the examination supervision scheduling of the institute of management and technology, Enugu. An in-dept study made on the existing system of the case study and it’s automation cannot be over emphasized result showed that the existing manual system in use was inadequate in many ways ranging from time wasted and labour lost to waster of funds. Therefore, a need for automation is eminent to ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-software-for-examination-supervision-scheduling-for-an-institution-of-higher-learning-3/ 

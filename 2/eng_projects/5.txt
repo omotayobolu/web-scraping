@@ -1,0 +1,3 @@
+Project title: CUSTOMER BILLING SYSTEM FOR HOTEL INDUSTRY, A CASE STUDY OF FOUR POINTS BY SHERATON, IKOT EKPENE 
+Project link: https://project4topics.com/customer-billing-system-for-hotel-industry-a-case-study-of-four-points-by-sheraton-ikot-ekpene/ 
+Project abstract: CHAPTER ONE INTRODUCTION Introduction Billing is a financial accounting concept for business organizations such as hotel industry to bill their customers for services rendered and the billing report is utilized by management to know the income generated. Hotel billing record system is used to capture the bill record of customers to come up with a total amount to be paid by the customer. The information is saved to a database ...

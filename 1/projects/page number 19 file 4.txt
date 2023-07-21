@@ -1,0 +1,5 @@
+project 4 on page 19 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE JAMB EXAMINATION PROCESSING SYSTEM 
+Project Abstract: ABSTRACT Computer are known for their wide range of uses especially in scientific and mathematical field. However, title or no thought has been given to designing a complete and true intelligence test on a computer system in our immediate environment. Although in advanced countries where computerized games have been developed computers have proved that they constitute ways of indirectly testing intelligence This system is designed in order to implement and ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-jamb-examination-processing-system-2/ 

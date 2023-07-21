@@ -1,0 +1,5 @@
+project 5 on page 25 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN AIRLINE SEAT RESERVATION SYSTEM 
+Project Abstract: Abstract Airline reservation and ticketing in a commercial airline company is a project work aimed at creating a system that will enable traveler’s book their flight by making reservations. As the world is turning into a global village with almost every aspect of human endavour getting computerized, the aviation industries management is looking forward to making available their flight reservations online. This project research involves the design and implementation of an airline ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-airline-seat-reservation-system-2/ 

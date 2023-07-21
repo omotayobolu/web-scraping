@@ -1,0 +1,5 @@
+project 13 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF AUTOMATED FUEL DISPENSATION SYSTEM 
+Project Abstract: ABSTRACT This project attempts to computerize fuel distribution system of the Nigeria National Petroleum Corporation (NNPC) Apata, Ibadan. This project is aimed at designing an automated system to ensure the distribution of fuel to the desired destination thereby leading to a more efficient, accurate and faster method in distributing fuel when the need arises. The propose system ensures adequate fuel distribution. The programming language that will be used to develop ... 
+Project link: https://project4topics.com/design-and-implementation-of-automated-fuel-dispensation-system-3/ 

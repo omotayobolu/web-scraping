@@ -1,0 +1,5 @@
+project 14 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF A WEB-BASED SOCIAL NETWORKING SITE FOR STAFF AND STUDENTS 
+Project Abstract: ABSTRACT Recently, online Social Networking Sites (SNSs) have exploded in popularity. Numerous sites are dedicated to finding and maintaining contacts and to locating and sharing different types of content. Online social networks represent a new kind of information network that differs significantly from existing networks. Results showed that participants often use the internet, especially social networking sites, to connect and reconnect with friends and family members. Objectives are to enable ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-web-based-social-networking-site-for-staff-and-students-3/ 

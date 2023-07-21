@@ -1,0 +1,5 @@
+project 5 on page 13 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED STUDENTS ID-CARD PROCESSING SYSTEM 
+Project Abstract: ABSTRACT This project work focused on the design and implementation of a system for processing students ID-Card. The study investigates the ID-Card processing expert system as a tool for revolutionized computer profession. It concentrates on how improved representations of processing knowledge and problem solving strategies have advanced the field of artificial intelligence in computer. The system generally involve mainly in manual process and it was discussed under the following process, ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-students-id-card-processing-system-2/ 

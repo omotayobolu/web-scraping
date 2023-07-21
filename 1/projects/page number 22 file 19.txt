@@ -1,0 +1,5 @@
+project 19 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF GSM BASED SMART PHONE HOME SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background of Study The term “Smart Home” was first coined by the American Association of House builders in 1984 with the invention of microcontrollers (Moawia Yahia, 2014). The overall idea is to provide improved efficiency and security in their place and areas of applications. Smart Home can be also known as Automated Home or intelligent home which indicates the automation of daily tasks with electrical appliances ... 
+Project link: https://project4topics.com/design-and-implementation-of-gsm-based-smart-phone-home-system-2/ 

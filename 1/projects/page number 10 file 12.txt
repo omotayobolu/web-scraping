@@ -1,0 +1,5 @@
+project 12 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTER BASED. RESOURCE ALLOCATION SYSTEM IN A DYNAMIC /VARIABLE RESOURCE UTILIZATION ENVIRONMENT 
+Project Abstract: ABSTRACT As computational recourse become for use over the internet, a requirement has emerged to configure reviewers to an optional allration to cope with an unpredictable flow of incoming jobs this project describes all architecture that allows the dynamic reconfiguration of severs to process incoming jobs by switching severs between concept . the system makes use o heuristic to make close to optional switching decisions.  Decisions.  A prototype system which ... 
+Project link: https://project4topics.com/design-and-implementation-of-computer-based-resource-allocation-system-in-a-dynamic-variable-resource-utilization-environment-2/ 

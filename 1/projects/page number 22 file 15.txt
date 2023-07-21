@@ -1,0 +1,5 @@
+project 15 on page 22 
+
+Project title: COMPUTERISED CRIME TRACKING INFORMATION SYSTEM 
+Project Abstract: ABSTRACT This project work intends to automate the existing criminal records of the Nigeria police using Enugu criminal investigating department. The essence was to produce durable criminal records and avoidable lost of criminal records. Structural database management system (DBMS) was used in its development in other to eliminate redundancy in the compilation, its friendliness in responding to the user exhibits and also its reliability and efficiency in tracking down criminals. ... 
+Project link: https://project4topics.com/computerised-crime-tracking-information-system-2/ 

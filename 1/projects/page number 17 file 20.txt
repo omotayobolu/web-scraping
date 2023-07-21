@@ -1,0 +1,5 @@
+project 20 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF ELECTRONIC TICKETING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background of the Study In the advanced world like China, Britain, Australia and the United State of America, ticketing system are usually automated with the use of internet and e-commerce. Smart cards are usually used to make payment and ticket generated after. The use of electronic ticketing system has increasingly helped to address the problem of long queue and time wastage problem. An electronic railway ticketing ... 
+Project link: https://project4topics.com/design-and-implementation-of-electronic-ticketing-system-2/ 

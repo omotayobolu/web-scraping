@@ -1,0 +1,5 @@
+project 5 on page 28 
+
+Project title: DESIGN AND IMPLEMENTATION OF STUDENT INFORMATION SYSTEM 
+Project Abstract: CHAPTER ONE GENERAL INTRODUCTION 1.0 INTRODUCTION An information system (IS) is any combination of information technology and people’s activities that support operations, management and decision making. In a very broad sense, the term information system is frequently used to refer to the interaction between people, processes, data and technology. In this sense, the term is used to refer not only to the information and communication technology (ICT) that an organization uses, but also to ... 
+Project link: https://project4topics.com/design-and-implementation-of-student-information-system-2/ 

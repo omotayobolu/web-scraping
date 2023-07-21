@@ -1,0 +1,5 @@
+project 16 on page 2 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE BANKING SYSTEM 
+Project Abstract: ABSTRACT The application has three users, Managing Director, Teller and the Customer login page. The MD has access to all the transaction details,  MD can  create an Account , add staff and each account created will have password  for security purpose which is going to serve as login details. The Teller can check account details, Credit an account with the following details: Account Number, Amount and Depositor Name, also Debit ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-banking-system/ 

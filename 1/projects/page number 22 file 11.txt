@@ -1,0 +1,5 @@
+project 11 on page 22 
+
+Project title: CLOUD COMPUTING: A BETTER MEANS OF IT OUTSOURCING 
+Project Abstract: INTRODUCTION Cloud computing is a model for enabling ubiguitions, convenient, on-demand network access to a shared pool of configurable computing resources (e.g. networks, servers, storage applications and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. Although this widely adopted description of what makes a cloud computing solution is very valuable, it is not very tangible or easy to understand. Why is cloud ... 
+Project link: https://project4topics.com/cloud-computing-a-better-means-of-it-outsourcing/ 

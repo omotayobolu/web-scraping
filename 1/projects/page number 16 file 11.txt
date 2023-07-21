@@ -1,0 +1,5 @@
+project 11 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF A CAR RENTAL SYSTEM 
+Project Abstract: CHAPTER 1: INTRODUCTION 1.0            Brief introduction to Car Rental System   CAR RENTAL SYSTEM (CRS) is a web based system for a company that rents out cars. This system enables the company to make their services available to the public through the internet and also keep records about their services. The world has become a place where there is a lot of technological development; where every single thing done physically has been ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-car-rental-system-3/ 

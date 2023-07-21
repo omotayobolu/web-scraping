@@ -1,0 +1,5 @@
+project 8 on page 19 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED SPORT LEAGUE MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT This project deals with the design and implementation of a computerized sport league management system using Warri Wolves Football Club as a case study. It covers such areas as sport league management information system, team registration and management, scheduling system that calculates league and tournament match-ups based on your input etc. Sport is an activity involving physical exertion and skill in which an individual or team competes against another or others ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-sport-league-management-system-2/ 

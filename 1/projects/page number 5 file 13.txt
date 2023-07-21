@@ -1,0 +1,5 @@
+project 13 on page 5 
+
+Project title: DESIGN AND IMPLEMENTATION OF INFORMATION MANAGEMENT SYSTEM FOR COMPUTER SCIENCE DEPARTMENT 
+Project Abstract: ABSTRACT This research work documents computer science department’s information system for managing its student’s data. The system is named CSDSIMS, an acronym for Computer Science Department Students Information Management System. It is developed and compiled using the Visual Basic programming language, and on Microsoft .NET Framework version 4.5 under a Windows platform. The research work includes a critical self-reflective commentary on Schools information management system. CHAPTER ONE 1.0 INTRODUCTION Information ... 
+Project link: https://project4topics.com/design-and-implementation-of-information-management-system-for-computer-science-department-3/ 

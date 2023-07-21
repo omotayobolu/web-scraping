@@ -1,0 +1,5 @@
+project 1 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF PATIENT MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE 1.0                                                     INTRODUCTION Generally, computer has played an important role in global economy in various ways. The Computer is used in many different fields such as in education for learning, in entertainment industries, for management, for problem solving and in business e.t.c. Due to its importance it has been recognized world-wide. One of its vital roles is in management systems. Today in health services, management of patient records requires a ... 
+Project link: https://project4topics.com/design-and-implementation-of-patient-management-system-2/ 

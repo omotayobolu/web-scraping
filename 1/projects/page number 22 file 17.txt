@@ -1,0 +1,5 @@
+project 17 on page 22 
+
+Project title: AUTOMATED PRISON MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 GENERAL OVERVIEW Automated prison management system is the collection of register cases for each prisoner entering the prison for automated release diary generator. A good system for prison service should be automated, because it enhances the administrative and experience to design, develop and implement a prison management system for prison defense and security. In spite of the benefits of the use of computer to provide timely ... 
+Project link: https://project4topics.com/automated-prison-management-system/ 

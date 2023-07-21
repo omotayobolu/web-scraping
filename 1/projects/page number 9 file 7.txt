@@ -1,0 +1,5 @@
+project 7 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED ONLINE EXAMINATION SYSTEM FOR STAFF RECRUITMENT 
+Project Abstract: INTRODUCTION An online examination system for recruitment of staff is a web application that establishes a network between the organization and applicants. The organization enters on the site the questions they want in the exam. These questions are displayed as a test to the eligible students. The answers inputted by the applicants are then evaluated and their score is calculated and saved. This score then can be accessed by the ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-online-examination-system-for-staff-recruitment-3/ 

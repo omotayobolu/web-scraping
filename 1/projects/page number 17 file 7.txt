@@ -1,0 +1,5 @@
+project 7 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF ENHANCED STUDENT RESULT GENERATION SYSTEM 
+Project Abstract: ABSTRACT Problems such as results delay, errors and human mistakes encountered with results management system in some academic environment are complex and worrisome. This fuelled the need for this project which has favorable addressed some of this problems. This research work gave birth to a three tier web based application developed to provide relief to some of the problems associated with result computations such as its susceptibility to human error ... 
+Project link: https://project4topics.com/design-and-implementation-of-enhanced-student-result-generation-system-2/ 

@@ -1,0 +1,5 @@
+project 16 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED VISITOR MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT The paper aimed at designing and implementing a computerized visitor management systems for Small, Medium and Large organizations. Many large organizations with numerous visitors who come in and out of the organization to meet up with various appointments are always faced with the problem of adequately capturing visitors and booking appointment dates with them. This system solves the problem of appointments and it effectively captures guest information for future ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-visitor-management-system-2/ 

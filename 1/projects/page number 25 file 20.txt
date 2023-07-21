@@ -1,0 +1,5 @@
+project 20 on page 25 
+
+Project title: DESIGN AND IMPLEMENTATION OF KIDS GAME 
+Project Abstract: CHAPTER ONE 1.0   INTRODUCTION 1.1   OVER VIEW The phenomenon of anagrams was first discovered by the Greek Peot Iycophron in 260 B.C Since then the study of anagrams has been called the great Art because the word can transposed to produce ARS MAGNA, the Latin name of great Art. However, with the advent of the internal and the creation of sophisticated anagram generating software, kids are now interested in anagram ... 
+Project link: https://project4topics.com/design-and-implementation-of-kids-game/ 

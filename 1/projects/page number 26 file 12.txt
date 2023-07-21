@@ -1,0 +1,5 @@
+project 12 on page 26 
+
+Project title: NETWORK PROGRAMMING (SECURED CLIENT-SERVER CHAT APPLICATION) 
+Project Abstract: ABSTRACT Several network systems are built to communicate with one another as well as made available through service-oriented architectures. In this project, the client server architecture is used to develop a chat application. Firstly a chat application is created for both Client and Server which is based on Transmission Control Protocol (TCP) where TCP is connection oriented protocol and is a reliable connection protocol. As security is the key factor ... 
+Project link: https://project4topics.com/network-programming-secured-client-server-chat-application-2/ 

@@ -1,0 +1,5 @@
+project 15 on page 25 
+
+Project title: MINIMIZING FILE DOWNLOADING TIME IN STOCHASTIC PEER TO PEER NETWORKS 
+Project Abstract: ABSTRACT The peer-to-peer (P2P) file sharing applications are becoming increasingly popular and account for more than 70% of the internet, cs bandwidth usage. Measurement studies show that a typical download of a file can take from minutes up to several hours depending on the level of network congestion or the service capacity fluctuation. In this paper, we consider two major factors that have significant impact on average download time, namely, ... 
+Project link: https://project4topics.com/minimizing-file-downloading-time-in-stochastic-peer-to-peer-networks/ 

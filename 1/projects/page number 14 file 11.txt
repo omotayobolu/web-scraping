@@ -1,0 +1,5 @@
+project 11 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED CRIME RECORD SYSTEM 
+Project Abstract: ABSTRACT As the complexity and degree of crimes wider, system Nigeria new technology will have to be utilized to aid lawyers and criminologist to fight this tends, on computerized crime record will offer a solution on this issue.  It is a software set up in order to meet the information needs of every part of the agency about crime record.  The software is divided into four different sections:  Criminal record, ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-crime-record-system-2/ 

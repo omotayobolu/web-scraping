@@ -1,0 +1,5 @@
+project 5 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN AUTOMATED TELLER MACHINE 
+Project Abstract: ABSTRACT This Project work is centered on the design of a computerized automated teller machine. With the aim of achieving the proper and swift implementation of the use of the machine in withdrawing money using First Bank PLC as a case study. This project work is divided into five Chapters. Chapter one comprises of the background of the study, which gives an overview of an Automated teller machine as well ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-automated-teller-machine-3/ 

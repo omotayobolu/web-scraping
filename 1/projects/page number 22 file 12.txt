@@ -1,0 +1,5 @@
+project 12 on page 22 
+
+Project title: COMPUTER NETWORKING USING WIRELESS NETWORK 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1   BACKGROUND TO THE STUDY A computer network or data network is a telecommunications network which allows computers to exchange data. In computer networks, networked computing devices pass data to each other along network links (data connections). The connections between nodes are established using either cable media or wireless media. The best-known computer network is the Internet (Wikipedia, 2015). Network computer devices that originate, route and terminate ... 
+Project link: https://project4topics.com/computer-networking-using-wireless-network-2/ 

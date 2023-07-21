@@ -1,0 +1,5 @@
+project 11 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED BIOMETRIC CLOCKING SYSTEM 
+Project Abstract: CHAPTER ONE 1.0                                           INTRODUCTION   1.1 BACKGROUND TO THE STUDY This part presents biometrics as the engineering used to measure and dissect individual attributes both physiological and behavioural. These attributes incorporate fingerprints, voice examples, hand estimation, irises, are physiological while marks, keystrokes elements and mouse development are behavioural which are all used to distinguish human qualities and confirm character (M. Gasson, M. Meints and K.warwick 2005). These biometrics ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-biometric-clocking-system-3/ 

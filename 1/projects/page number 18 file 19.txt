@@ -1,0 +1,5 @@
+project 19 on page 18 
+
+Project title: DESIGN AND IMPLEMENTATION OF A TRANSPORT SYSTEM USING SEARCH ALGORITHM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0    Introduction Transportation is a basic requirement for every nation, regardless of its industrial capacity,population size or technological development. The Nigerian transport systems, right from inception, were poorly designed and are unable to scale up to meet greater demand, a design flaw which causes traffic congestion on roads, over stressed railways, faltering airfields, and mass-transport blind spots (Igwe, 2010). Comparative analysis of three basic search algorithms that can ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-transport-system-using-search-algorithm-2/ 

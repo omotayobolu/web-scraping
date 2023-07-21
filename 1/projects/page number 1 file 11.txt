@@ -1,0 +1,5 @@
+project 11 on page 1 
+
+Project title: DEVELOPING A PREDICTIVE MODEL FOR CLASSIFYING STUDENT’S ACADEMIC PERFORMANCE 
+Project Abstract: ABSTRACT Educational Data Mining is a leading area for high quality research that mines data sets to answer educational research questions that shed light on the learning process. It is a new trend in the data mining and Knowledge Discovery in Databases (KDD) field that focuses in mining useful patterns and discovering useful knowledge from the educational information systems. One of the application areas of Educational data mining is analysis ... 
+Project link: https://project4topics.com/developing-a-predictive-model-for-classifying-students-academic-performance/ 

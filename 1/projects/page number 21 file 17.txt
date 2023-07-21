@@ -1,0 +1,5 @@
+project 17 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERISED CASE FILLING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Computer has a relatively modest role to play at present in the proper management of organizations and modern firms. It is compulsory that based on our understanding of computer and its implementation in the processing requirements of information it is ubiquitous in organization. The project  work aimed at designing and implementing a computerized case filling system, to provide information for the effective and efficient process in the ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerised-case-filling-system-2/ 

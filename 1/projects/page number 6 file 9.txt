@@ -1,0 +1,5 @@
+project 9 on page 6 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN EXPERT SYSTEM ON THYPHOID AND MALARIA DIAGNOSIS 
+Project Abstract: ABSTRACT This project, Expert system on Malaria and Typhoid Diagnosis, is a software system tailored for use in the diagnosis of malaria and typhoid diseases.  The software is an expert system with a database containing an expert knowledge.  The user only uses it to determine whether he or she has any of the diseases within its domain.  The software has been designed to be interactive with audio capability eliciting from ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-expert-system-on-thyphoid-and-malaria-diagnosis/ 

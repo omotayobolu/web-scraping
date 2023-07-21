@@ -1,0 +1,5 @@
+project 6 on page 28 
+
+Project title: DESIGN AND IMPLEMENTATION OF ELECTRICAL/ELECTRONICS DEPARTMENT WEBSITE 
+Project Abstract: ABSTRACT For a long time, the department of Electrical/Electronic of this college has not had a website with guaranteed continuity. Several students in past had made attempts to achieve this but all to no avail. Eventually, with the implementation of this project,the department now has a functional website. The Website User Interface is designed using the elements of HTML,CSS and Bootstrap, while the functionality is done using PHP. The web ... 
+Project link: https://project4topics.com/design-and-implementation-of-electrical-electronics-department-website-3/ 

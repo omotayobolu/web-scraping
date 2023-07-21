@@ -1,0 +1,5 @@
+project 20 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF A SOIL MOISTURE DETECTOR WITH AUTOMATIC SMS NOTIFICATION SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background to the study Through the ages agriculture production systems have benefited from the incorporation of technological advances primarily developed for other industries. The industrial age brought mechanization and synthesized fertilizers, the technological age offered genetic engineering and now the information age brings the potential for Precision Agriculture (Rasher, 2001). Precision agriculture (PA) , satellite farming or Site Specific Crop Management (SSCM) can be defined as ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-soil-moisture-detector-with-automatic-sms-notification-system-2/ 

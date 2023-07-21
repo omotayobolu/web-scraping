@@ -1,0 +1,5 @@
+project 4 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTER-AIDED SYSTEM THAT SOLVES ALGEBRAIC EQUATIONS 
+Project Abstract: ABSTRACT Traditionally, the concept of teaching mathematics has always been a teacher – student relationship; in which the teacher explains the concept of the topic to the student and illustrates it with some examples. The student is then left to understand the topic on his or her own using the tools given by the teacher. A problem often results when the student needs a guide while practicing and the teacher ... 
+Project link: https://project4topics.com/design-and-implementation-of-computer-aided-system-that-solves-algebraic-equations/ 

@@ -1,0 +1,5 @@
+project 1 on page 4 
+
+Project title: PERSONALITY PREDICTION THROUGH CV ANALYSIS 
+Project Abstract: ABSTRACT This will enable a more effective way to short list submitted candidate CVs from a large number of applicants providing a consistent and fair CV ranking policy, which can be legally justified. System will rank the experience and key skills required for particular job position. Than system will rank the CV’s based on the experience and other key skills which are required for particular job profile. This system will ... 
+Project link: https://project4topics.com/personality-prediction-through-cv-analysis/ 

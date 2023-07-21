@@ -1,0 +1,5 @@
+project 14 on page 1 
+
+Project title: DESIGN AND IMPLEMENTATION OF A CROSS-PLATFORM DATABASE SYSTEM FOR SQL AND NoSQL INTEROPERABILITY 
+Project Abstract: ABSTRACT Relational databases have been the norm in the Information Technology (IT) industry because of the ease of operation when low-cost servers were considered to be extremely powerful. However, with the advent of web 2.0 technology and expansion in computer growth, these databases were unable to sustain most major demands like speed, scalability, reliability, continuous availability, cost reduction and location independence.As a result of this inadequacy, the NoSQL systems were ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-cross-platform-database-system-for-sql-and-nosql-interoperability/ 

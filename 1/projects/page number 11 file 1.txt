@@ -1,0 +1,5 @@
+project 1 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ON-LINE LAN KNOWLEDGE-BASED SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION How is computer and other related devices actually able to send information across data communication lines.  The answer to this is the installation and maintenance of computer network.  Furthermore, installation and maintenance of computer network is the glue that holds all data in the exact form, the data is to be transfer from one place to another.  While the procedures for installation of computer methods are embodies ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-on-line-lan-knowledge-based-system-2/ 

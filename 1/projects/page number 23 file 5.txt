@@ -1,0 +1,5 @@
+project 5 on page 23 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED CONTACT MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT Contact management system deals with the collection and storage of contact information of people, addresses, phone numbers and other contact details. Computerized system poses high speed of processing precision, storage, its versatility and high retrieval system makes possible the completion of tasks that could never been achieved with manual system because of the difficulty of completing them on time for the results to be useful. This paper discusses the ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-contact-management-system-2/ 

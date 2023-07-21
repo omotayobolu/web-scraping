@@ -1,0 +1,5 @@
+project 15 on page 7 
+
+Project title: PREDICTING STUDENTS ACADEMIC PERFORMANCE USING ARTIFICIAL NEURAL NETWORK 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1   BACKGROUND TO THE STUDY Predicting student academic performance has long been an important research topic. Among the issues of education system, questions concerning admissions into academic institutions (secondary and tertiary level) remain important (Ting, 2008). The main objective of the admission system is to determine the candidates who would likely perform well after being accepted into the school. The quality of admitted students has a great ... 
+Project link: https://project4topics.com/predicting-students-academic-performance-using-artificial-neural-network/ 

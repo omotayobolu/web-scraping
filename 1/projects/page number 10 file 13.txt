@@ -1,0 +1,5 @@
+project 13 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF DATA WAREHOUSE FOR RECORDING ACCIDENT CASES 
+Project Abstract: INTRODUCTION The dictionary defines accident as “an unexpected and undesirable event, a mishap, unforeseen and without apparent cause. The mounting toll of Road Traffic Accident (RTA) deaths in Nigeria has public health problem, which requires urgent attention since these deaths are preventable. The pattern of scold sustained in these fatalities has however been focused on RTA in this country, since the early seventies when concerned citizens advocated the setting up ... 
+Project link: https://project4topics.com/design-and-implementation-of-data-warehouse-for-recording-accident-cases-3/ 

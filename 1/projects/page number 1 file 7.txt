@@ -1,0 +1,5 @@
+project 7 on page 1 
+
+Project title: DEVELOPMENT OF AN ENHANCED HYBRID MODEL FOR DYNAMIC REMOTE DATA AUDITING (DRDA) ON CLOUD COMPUTING 
+Project Abstract: ABSTRACT Cloud computing is a service delivery model whereby its rich shared resources are provided to clients electronically as a utility over an internet. Security of internally stored sensitive data has been challenging due to some known risks posed to these data such as internal risks like fire and liquid hazards, conflicts of interest, political intent, and others. This research proposes outsourcing of these data that are managed locally to ... 
+Project link: https://project4topics.com/development-of-an-enhanced-hybrid-model-for-dynamic-remote-data-auditing-drda-on-cloud-computing/ 

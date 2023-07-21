@@ -1,0 +1,5 @@
+project 14 on page 24 
+
+Project title: DESIGN AND IMPLEMENTATION OF A MEDICAL DIAGNOSTIC SYSTEM 
+Project Abstract: INTRODUCTION  1.0 BACKGROUND OF STUDY  Medical diagnosis, (often simply termed diagnosis) refers both to the process of attempting to determine or identifying a possible disease or disorder to the opinion reached by this process. A diagnosis in the sense of diagnostic procedure can be regarded as an attempt at classifying an individual’s health condition into separate and distinct categories that allow medical decisions about treatment and prognosis to be made. ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-medical-diagnostic-system/ 

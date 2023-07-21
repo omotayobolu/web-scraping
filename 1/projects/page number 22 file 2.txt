@@ -1,0 +1,5 @@
+project 2 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE ASSIGNMENT SUBMISSION MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT The paper examines the design and implementation of an online assignment submission system. The challenges faced by students in meeting assignment deadlines and cost associated with printing hard copies of paper, necessitated the researcher to develop a user friendly system to tackle these challenges. The system allows students to submit assignments online to a particular course lecture, who have access to the system for grading purpose. The system was ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-assignment-submission-management-system-2/ 

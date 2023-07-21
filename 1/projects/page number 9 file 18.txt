@@ -1,0 +1,5 @@
+project 18 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE ADMISSION AND RESULT CHECKING SYSTEM FOR A HIGHER INSTITUTION 
+Project Abstract: ABSTRACT In every institution, admission and result are the most important data which is the basic for each candidate. The institution makes sure that every student comes into the institution through a verified process. On the other hand, the institution makes sure that every qualified student who is duely admitted, goes out with a comprehensive result so as to ascertain his/her studentship. The major aim of this project is to ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-admission-and-result-checking-system-for-a-higher-institution-3/ 

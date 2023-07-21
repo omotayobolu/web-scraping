@@ -1,0 +1,5 @@
+project 8 on page 2 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN INTELLIGENT IRRIGATION SYSTEM 
+Project Abstract: Abstract The main thrust for embarking on this study is on design and implementation of irrigation system. The system consists of a microcontroller, sensors, and water pump integration with a decision-making system. In carrying out the study, three specific objectives were adopted thus; To develop a system that will reduce human interference and ensure proper irrigation, to minimize water loss and to maximize the efficiency of water used, to prevent ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-intelligent-irrigation-system/ 

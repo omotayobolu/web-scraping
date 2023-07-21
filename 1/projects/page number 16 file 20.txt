@@ -1,0 +1,5 @@
+project 20 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN EXPERT SYSTEM ON TROUBLESHOOTING AND MAINTENANCE OF EPOSON PRINTER 
+Project Abstract: ABSTRACT Most often, the printing of very important reports have been stopped midway owing to some minor faults on the computer/printer system.  At times, due to the complexity of the faults some maintenance personnel find it difficult beginning to perform detailed diagnosis due to lack of specialized equipment, some of which are available only to a few big firms due to their high cost of acquisition. As the case may ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-expert-system-on-troubleshooting-and-maintenance-of-eposon-printer-3/ 

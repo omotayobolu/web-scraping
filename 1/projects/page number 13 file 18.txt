@@ -1,0 +1,5 @@
+project 18 on page 13 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED PERSONNEL MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE 1.1 INTRODUCTION In most organizations particularly business organizations, most of what goes on consists largely of transactions. A transaction is a recorded event having to do with routine business activities. This includes everything concerning the product or service in which the organization is engaged: production, distribution, sales, order and stock-taking. It also includes the materials purchased, employees hired, taxes paid and so on. Today in most organizations, the ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-personnel-management-system-2/ 

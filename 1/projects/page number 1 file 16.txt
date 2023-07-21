@@ -1,0 +1,5 @@
+project 16 on page 1 
+
+Project title: DESIGN AND DEVELOPMENT OF AN ENHANCED MODEL FOR CREDIT CARD FRAUD DETECTION IN BANKS 
+Project Abstract: ABSTRACT The growth in electronic transactions has resulted in a greater demand for fast and accurate user identification and authentication. Conventional method of identification based on possession of pin and password are not all together reliable. Higher acceptability and convenience of credit card for purchases have not only given personal comfort to customers but also attracted a large number of attackers. As a result, credit card payment systems must be ... 
+Project link: https://project4topics.com/design-and-development-of-an-enhanced-model-for-credit-card-fraud-detection-in-banks/ 

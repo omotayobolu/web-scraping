@@ -1,0 +1,5 @@
+project 15 on page 18 
+
+Project title: DESIGN AND IMPLEMENTATION OF A CLOUD BASED DOCUMENT MANAGEMENT PROCESSING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1     Introduction Cloud Computing is a new paradigm of computing which has evolved in recent times, it’s a platform where hardware and software are delivered to users in a manner that resembles the way utilities such as electricity are delivered to households today (Flanagan, 2002). Cloud computing is an online form of computing where users can access applications (especially, Web-Based Applications) via a web-browser, while the application ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-cloud-based-document-management-processing-system-2/ 

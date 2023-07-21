@@ -1,0 +1,5 @@
+project 12 on page 9 
+
+Project title: DESIGN AND SIMULATION OF A PERSONAL COMPUTER TEMPERATURE CONTROL SYSTEM 
+Project Abstract: ABSTRACT Temperature determines the survival of all natural creatures and as well the operational fitness of all scientific invention, it is quite important to every aspect of human endeavor and its control is as important as the temperature itself. This research work centers its study on temperature and its control with a view of designing and implementing a reliable computerized system that will automatically contribute in temperature control. The new ... 
+Project link: https://project4topics.com/design-and-simulation-of-a-personal-computer-temperature-control-system-3/ 

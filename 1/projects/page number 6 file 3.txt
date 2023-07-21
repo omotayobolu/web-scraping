@@ -1,0 +1,5 @@
+project 3 on page 6 
+
+Project title: DESIGN AND IMPLEMENTATION OF CORONAVIRUS TRACKING SYSTEM FOR INFECTED PATIENCE 
+Project Abstract: CHAPTER ONE INTRODUCTION Background to the study Tracking system is very important in modern world; this can be useful in navigation, monitoring, tracking of the people with COVID1-19.These days, however, with technology growing at a fast pace, automated tracking system is being used in a variety of ways to track and display locations human beings and non object in real-time .A coronavirus tracking system that uses GPS/GSM/GPRS technology and a ... 
+Project link: https://project4topics.com/design-and-implementation-of-coronavirus-tracking-system-for-infected-patience/ 

@@ -1,0 +1,5 @@
+project 10 on page 21 
+
+Project title: DESIGNING A COMPUTER SOFTWARE FOR THE REGISTRATION OF PATIENTS FSDT&T CLINIC/LABORATORY 
+Project Abstract: ABSTRACT The study was aimed at designing a computer software for registration of patient’s in FSDT&T clinic/laboratory. The work was reviewed from text books, journals, website which highlights the process of designing of designing the software using waterfall model method requirement, design, implementation, installation and maintenance. Then sing visual basic 6.0 and MSDN to create the interface, writing the code and set the properties and Microsoft Access for the database.1 ... 
+Project link: https://project4topics.com/designing-a-computer-software-for-the-registration-of-patients-fsdtt-clinic-laboratory/ 

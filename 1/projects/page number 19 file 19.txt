@@ -1,0 +1,5 @@
+project 19 on page 19 
+
+Project title: DESIGN AND IMPLEMENTATION OF RECRUITMENT PORTAL 
+Project Abstract: ABSTRACT Web based recruitment portal is a web based application that monitors the recruitment process of any organization online.  It has the features that allow the user to apply for job online.  When application is sent through the web portal, based on the requirement of the said job description, the portal screens the candidate and determines whether or not the applicant is qualified.  If the applicant is not qualified, the ... 
+Project link: https://project4topics.com/design-and-implementation-of-recruitment-portal-2/ 

@@ -1,0 +1,5 @@
+project 14 on page 22 
+
+Project title: ANALYSIS OF DATA MINING TECHNIQUES OF TELECOMMUNICATION COMPANIES IN NIGERIA 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1   BACKGROUND TO THE STUDY The telecommunications industry generates and stores a tremendous amount of data (Han et al, 2002). These data include call detail data, which describes the calls that traverse the telecommunication networks, network data, which describes the state of the hardware and software components in the network, and customer data, which describes the telecommunication customers (Roset et al, 1999). The amount of data is ... 
+Project link: https://project4topics.com/analysis-of-data-mining-techniques-of-telecommunication-companies-in-nigeria/ 

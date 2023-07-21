@@ -1,0 +1,5 @@
+project 13 on page 28 
+
+Project title: DESIGN AND IMPLEMENTATION OF HEALTH CLINICAL DATABASE INFORMATION SYSTEM 
+Project Abstract: ABSTRACT This project was centered on health clinical database information system. The current process of keeping records of patients is being operated manually and due to this procedure numerous problem are been encountered. A design was taken to computerized the manual process in order to check this problem. The problems were identified after series of interviews and examination of documents after which analysis was made and a computerized procedure recommended. ... 
+Project link: https://project4topics.com/design-and-implementation-of-health-clinical-database-information-system-2/ 

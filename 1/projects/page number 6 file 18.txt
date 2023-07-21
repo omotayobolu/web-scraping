@@ -1,0 +1,5 @@
+project 18 on page 6 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE ANDRIOD ELECTRONIC MONEY TRANSFER SYSTEM 
+Project Abstract: ABSTRACT Android is the leading mobile operating system worldwide. Android became the leading mobile Operating System since 2011; almost 220 million smartphones running Android were sold. This figure grew to 1.2 billion in 2015. The basic idea behind the project is to implement a money transactions system built on android, this application will be a smart and secure way to carrying out banking transactions without the long bank queues or ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-andriod-electronic-money-transfer-system/ 

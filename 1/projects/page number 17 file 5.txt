@@ -1,0 +1,5 @@
+project 5 on page 17 
+
+Project title: DESIGN AND IMPLEMENTATION OF A WEB BASED DISCUSSION FORUM FOR COMPUTER SCIENCE AND ENGINEERING STUDENTS 
+Project Abstract: ABSTRACT The world is fast becoming a global village due to the effect of globalization and rapid growth in technology. This has enabled information sharing among various people of the world, thereby solving basic societal problems and bringing about rapid development. The study designs and implements a web based forum where computer science and computer engineering students of a particular university, or various universities in Nigeria and the world at ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-web-based-discussion-forum-for-computer-science-and-engineering-students-3/ 

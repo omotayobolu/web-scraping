@@ -1,0 +1,5 @@
+project 15 on page 24 
+
+Project title: DESIGN AND IMPLEMENTATION OF WEB BASED ACADEMIC INFORMATION SYSTEM 
+Project Abstract: ABSTRACT A common challenge faced by universities is effective management of large amounts of data that are encountered in day-to-day operations. Access to these data requires various privileges and restrictions to cater for the various user categories. Traditional paper-based approach to managing these data, as practiced in many Nigerian universities, is costly, error-prone and ineffective. Existing solutions to this problem, where they exist, are ad hoc or not comprehensive. In ... 
+Project link: https://project4topics.com/design-and-implementation-of-web-based-academic-information-system/ 

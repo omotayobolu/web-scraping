@@ -1,0 +1,5 @@
+project 11 on page 27 
+
+Project title: DESIGN AND IMPLEMENTATION OF AUTOMATED SYSTEM FOR TROUBLESHOOTING PERSONAL COMPUTERS 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0 Introduction Troubleshooting implies diagnosing a problem in order to know the cause and proffer corresponding solution while maintenance refers to work that is done to keep a device or equipment in good working condition. Troubleshooting and maintenance is necessary to elongate the life span of any device. According to Wikipedia, Troubleshooting is a form of problem solving, often applied to repair of failed products or processes. It ... 
+Project link: https://project4topics.com/automated-system-for-troubleshooting-personal-computers-2/ 

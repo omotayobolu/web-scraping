@@ -1,0 +1,5 @@
+project 5 on page 27 
+
+Project title: DESIGN AND IMPLEMENTATION OF JUDICIAL INFORMATION MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION  1.0 Introduction Judicial Information Management Systems (JIMS) can be used to help the judiciary manage and complete their daily work. These systems can also be used to prevent data corruption and allow data “mining,” that identifies potential corruption activities. This chapter briefly discusses the issue of judicial corruption and describes automated system functions that can be used to eliminate and potentially indicate corrupt practices. A court is ... 
+Project link: https://project4topics.com/design-and-implementation-of-judicial-information-management-system-2/ 

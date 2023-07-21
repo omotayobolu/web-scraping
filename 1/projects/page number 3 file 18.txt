@@ -1,0 +1,5 @@
+project 18 on page 3 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTER BASED LOAN MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Loan service for small organizations individuals was initiated after a number of considerations on the banking system.  Major Banks are mainly guided by financial profit for their shareholders.  They are after minimization of financial risks.  Such strategies don’t leave much room to people on low income or even small organizations that strive for their survival. This research studied the computer-based loan scheme management system-as was done in ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computer-based-loan-management-system/ 

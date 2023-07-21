@@ -1,0 +1,5 @@
+project 15 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED TRAFFIC OFFENCE SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Computerised Traffic Offence System is a powerful web based and database program that records all the traffic offences committed nationwide. The system helps the Federal Road Safety Commission keep adequate records of all traffic offences that has been committed and that will still be committed by road users and also maintain the databases of the commission (FRSC). BACKGROUND OF THE STUDY Prior to the establishment of Federal Road ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-traffic-offence-system-3/ 

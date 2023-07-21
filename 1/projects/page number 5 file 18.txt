@@ -1,0 +1,5 @@
+project 18 on page 5 
+
+Project title: DEVELOPMENT OF AN IMPROVED EDGE DETECTION ALGORITHM FOR NOISY COLOURED IMAGES USING PARTICLE SWARM OPTIMIZATION 
+Project Abstract: ABSTRACT This research work presents an improved edge detection algorithm using particle swarm optimization based on vector order statistics. The proposed algorithm was implemented using MATLAB 2013 script. The algorithm addressed the performance of edge detection in images, with a view to minimizing broken, false and thick edges whilst reducing the presence of noise as well as computational time. A collection scheme based on step and ramp edges was developed ... 
+Project link: https://project4topics.com/development-of-an-improved-edge-detection-algorithm-for-noisy-coloured-images-using-particle-swarm-optimization/ 

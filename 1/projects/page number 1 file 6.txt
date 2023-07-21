@@ -1,0 +1,5 @@
+project 6 on page 1 
+
+Project title: DEVELOPMENT OF AN ENHANCED SOFTWARE ENGINEERING METHODOLOGY FOR ANALYSIS AND DESIGN OF INTELLIGENT AGENTS 
+Project Abstract: ABSTRACT Multi Agent Systems have proven to be a powerful new approach for designing and developing complex and distributed software systems. Developing multi-agent systems for complex and distributed systems entails a robust methodology to assist developers to develop such systems in appropriate way. In the last ten years, many Agent Oriented Methodologies have been proposed with some shortcomings that include lack of industrial suitability, lack of standard, research problem and ... 
+Project link: https://project4topics.com/development-of-an-enhanced-software-engineering-methodology-for-analysis-and-design-of-intelligent-agents/ 

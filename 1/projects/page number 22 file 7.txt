@@ -1,0 +1,5 @@
+project 7 on page 22 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE VISA PROCESSING SYSTEM 
+Project Abstract: ABSTRACT A visa is most commonly a sticker endorsed in the applicant's passport or other travel document. The visa, when required, was historically granted by an immigration official on a visitor's arrival at the frontiers of a country, but increasingly today a traveller wishing to enter another country must apply in advance for a visa, sometimes in person at a consular office, by mail or over the internet. The actual visa may still ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-visa-processing-system-2/ 

@@ -1,0 +1,5 @@
+project 2 on page 6 
+
+Project title: Design And Construction Of Dc Motor Speed Control Using Arduino Board 
+Project Abstract: Abstract This Paper Documents The Design And Construction Of Dc Motor Speed Control Using Arduino Board. The requirements are defined and then the design process explained. The final product is exhibited followed by a discussion of the success of the project, with suggestions for how to further improve the device. The project was successful, however a noise related bug was found with the over-current protection feature; the report includes recommendations ... 
+Project link: https://project4topics.com/design-and-construction-of-dc-motor-speed-control-using-arduino-board/ 

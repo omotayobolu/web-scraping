@@ -1,0 +1,5 @@
+project 17 on page 13 
+
+Project title: DESIGN AND IMPLEMENTATION OF A MOBILE RESULT CHECKER 
+Project Abstract: ABSTRACT In this project work, we present a way to bring information to students by leveraging the availability of phones (with SMS capability). We review the use of mobile phones for delivering examination results via Mobile Application Result Checker in a university, where student who have written examinations and anxious to see their results need to get their grades in a convenient and accessible way, whether in the comfort of ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-mobile-result-checker-2/ 

@@ -1,0 +1,5 @@
+project 4 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF A SOFTWARE RESULT PROCESSING AND TRANSCRIPT GENERATION 
+Project Abstract: ABSTRACT Result processing can be seen as a continuous process of converting data (scores, grade points, credit units etc) into a definite and meaningful information (statement of result, transcripts etc). These results are used to check the performance of each student in various courses. These results when processed manually leads to many problems such as error during computation, insecurity of results, untidy results after changes must have been effected and ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-software-result-processing-and-transcript-generation-4/ 

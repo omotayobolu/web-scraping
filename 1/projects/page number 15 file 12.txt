@@ -1,0 +1,5 @@
+project 12 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED DIAGNOSIS SYSTEM 
+Project Abstract: ABSTRACT           This project, electronic diagnosis system, is a software system tailored for use in the diagnosis and analysis of diseases.  The software is an expert system with a database containing an expert knowledge.  The user only uses it to determine whether he or she has any of the diseases within its domain.  The software has been designed to be interactive with audio capability eliciting from the user if they ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-diagnosis-system-2/ 

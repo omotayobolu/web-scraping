@@ -1,0 +1,5 @@
+project 7 on page 25 
+
+Project title: COMPUTER BASED SCRABBLE GAME 
+Project Abstract: CHAPTER ONE INTRODUCTION  1.1 Background of the Project Scrabble is an old classic board game, with game rules that are not very complicated. Compared to other classic board games, such as Chess, there are more factors to take into consideration when making a move in Scrabble. Apart from anagramming and generating words, there are other crucial decisions to make. A player would probably find several legal moves in one round, and ... 
+Project link: https://project4topics.com/computer-based-scrabble-game/ 

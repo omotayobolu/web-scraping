@@ -1,0 +1,5 @@
+project 4 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED QUALITY CONTROL SYSTEM FOR A MANUFACTURING ORGANISATION 
+Project Abstract: ABSTRACT The purpose of the study is to computerize quality control system for manufacturing organization (A case study of S.E.D.I Enugu) and to develop a computer package whereby the techniques observed from the manual method can be improved on. It is known fact that the manual method of quality control system in production has been associated with lots in inaccuracy in quality control and this has lead to early break ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-quality-control-system-for-a-manufacturing-organisation/ 

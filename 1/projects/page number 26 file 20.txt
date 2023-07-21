@@ -1,0 +1,5 @@
+project 20 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF CRIMINAL RECORD MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0 Introduction A computer based crime control record system is a system that enables the police force to utilize the computer system (hardware and software) to record crime information and also to investigate or to find out the perpetrators of a given crime based on past criminal records, or by the examination of evidence(s) gathered from the crime scene using specialized systems. According to Nicole (2009), the methods of detection ... 
+Project link: https://project4topics.com/design-and-implementation-of-criminal-record-management-system-2/ 

@@ -1,0 +1,5 @@
+project 8 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF AIRLINE BOOKING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1            Background of the Study Throughout commercial airline history, the timely movement of aircraft, passengers and cargo has required the even more timely movement of information. This was never truer than today, where information has become not just an operational tool, but a competitive weapon. To capitalize on this information, the technological revolution and the information society have brought us a dazzling set of capabilities. But, they have ... 
+Project link: https://project4topics.com/design-and-implementation-of-airline-booking-system-4/ 

@@ -1,0 +1,5 @@
+project 17 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED FOOD MENU DIRECTORATE SYSTEM 
+Project Abstract: ABSTRACT The main objective of this study is to develop an ICT assisted menu directorate system, whereby someone could be able to choose a meal, get the list of ingredients to cook the meal and follow a step by step help in order to cook the meal. In the other hand, it will also consist of a food time table, where certain meal will be designated for a certain time. ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-food-menu-directorate-system-3/ 

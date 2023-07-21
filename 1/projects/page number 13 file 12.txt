@@ -1,0 +1,5 @@
+project 12 on page 13 
+
+Project title: DESIGN AND CONSTRUCTION OF AN ELECTRONIC LETTER BOX WITH DISPLAY COUNTER OR BUZZER 
+Project Abstract: ABSTRACT This work is on design and construction of an electronic letter box with counters and indicators.This   project is developed for the users to find out whether any letter is inside the letter box and also to display the number of letters inside the letter box. An IR Transmitter and Receiver are connected at the opening of the letter box.  In normal operation, the rays transmitted from the transmitter falls on ... 
+Project link: https://project4topics.com/design-and-construction-of-an-electronic-letter-box-with-display-counter-or-buzzer/ 

@@ -1,0 +1,5 @@
+project 11 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF A SECURITY INFORMATION SYSTEM 
+Project Abstract: ABSTRACT The principal objective of this project is to help Security Information Systems (SIS) especially NIGERIAN POLICE which is my case study in the area they encounter problems in securing security data- processing and efficient information system. This will be the solution given to handle this problem by transforming the existing manual information system into an automated form and overcome the existing problems of insecurity and delay in data processing. ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-security-information-system-3/ 

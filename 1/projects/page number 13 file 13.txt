@@ -1,0 +1,5 @@
+project 13 on page 13 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTER BASED LOAN SCHEME MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT Organizations like Banks give loan to their customers based on certain conditions given by the loan scheme management board.  These conditions must be clearly met by the customers before they qualify for the loan they are begging for. In this research, the loan scheme management system was studies in detail.  The concept was well understood and the pros and cons were ascertained. The loan scheme management system was computerized ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computer-based-loan-scheme-management-system-4/ 

@@ -1,0 +1,5 @@
+project 17 on page 25 
+
+Project title: NEURAL NETWORK FOR UNICODE OPTICAL CHARACTER RECOGNITION 
+Project Abstract: ABSTRACT Optical character Recognition (OCR) refers to the process of converting printed tamil text documents into software translated Unicode tamil text. The printed documents available in the form of books, projects, magazines etc are scanned using standard scanners which produce an image of the scanned documents. As part of the preprocessing phase the image like is checked for skewing. If the image is skewed, it is corrected by a simple ... 
+Project link: https://project4topics.com/neural-network-for-unicode-optical-character-recognition/ 

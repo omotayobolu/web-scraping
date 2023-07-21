@@ -1,0 +1,5 @@
+project 18 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF ENCRYPTED DATA BASE SYSTEM 
+Project Abstract: CHAPTER ONE 1.0        INTRODUCTION In the past, security was simply a matter of locking the door or storing files in a locked filing cabinet or safe. Today, paper is no longer the only medium of choice for housing information. Files are stored in computer databases as well as file cabinets. Hard drives and floppy disks hold many of our secret information.. In the physical world, security is a fairly simple ... 
+Project link: https://project4topics.com/design-and-implementation-of-encrypted-data-base-system-3/ 

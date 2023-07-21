@@ -1,0 +1,5 @@
+project 8 on page 7 
+
+Project title: DESIGN & IMPLEMENTATION OF PAYROLL SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1   BACKGROUND TO STUDY. Prompt payment of Staff salaries by Management of and Organization boosts the morale of staffs and enhances productivity. Manual preparation of staff’s salaries is often associated with lots of problems, which often time disrupt the morale of workers. The problem usually ranges from arithmetic errors in computation, delay in payment, underpayment or overpayment and so on.  In this project work, an automated system will ... 
+Project link: https://project4topics.com/design-implementation-of-payroll-system-2/ 

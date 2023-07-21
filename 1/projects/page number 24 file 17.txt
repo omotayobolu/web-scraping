@@ -1,0 +1,5 @@
+project 17 on page 24 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN AUTOMATED INVENTORY CONTROL SYSTEM 
+Project Abstract: ABSTRACT This research work is concise and generally summarizes the activities duly carried out in the design and implementation of an automated inventory control system for NIGERIAN BREWERIES PLC, ENUGU. The system is designed to efficiently handle the movement and tracking of goods. The manual method is labour intensive, costly, and error prone and cannot ensure that the inventory remains up-to-date due to oversight and internal shrinkage. With the proposed new ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-automated-inventory-control-system/ 

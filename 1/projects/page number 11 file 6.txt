@@ -1,0 +1,5 @@
+project 6 on page 11 
+
+Project title: DESIGN AND IMPLEMENTATION OF SOFTWARE FOR THE COMPUTATION OF STUDENTS CGPA 
+Project Abstract: ABSTRACT This project is solely based on the critical appraisal of the use of computer in result processing. The work has done with the aim of studying all the processes involved in manual processing of students result with a view of developing software that can aid in doing the job whenever the new system is introduced to the relevant department (Computer Science Department). In the course of achieving these objective ... 
+Project link: https://project4topics.com/design-and-implementation-of-software-for-the-computation-of-students-cgpa-2/ 

@@ -1,0 +1,5 @@
+project 10 on page 22 
+
+Project title: DESIGN AND CONTRUCTIONS OF A ROBOT CONTROL SYSTEM USING RF MODULE 
+Project Abstract: ABSTRACT The robot control using an RF module is simply a robotic system whose control and functioning is achieved by the use of a radio frequency based remote. This project implements the principle of artificial intelligence to develop a mobile robot that is controlled using the hand held remote device controlled from a distance away from the robots position. The project is implemented with 8051 microcontroller which forms the heart ... 
+Project link: https://project4topics.com/design-and-contructions-of-a-robot-control-system-using-rf-module-2/ 

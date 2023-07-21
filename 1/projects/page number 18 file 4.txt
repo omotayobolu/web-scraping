@@ -1,0 +1,5 @@
+project 4 on page 18 
+
+Project title: DESIGN AND IMPLEMENTATION OF A STUDY PLANNER FOR MOBILE DEVICES 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 BACKGROUND OF THE STUDY A study plan is an organized schedule that students create to outline time for study and learning goals. Just like with work or school schedules, university students should develop a study schedule where they can synchronise their everyday life with studying. Creating a study plan not only helps the user become more organized, but it also holds them accountable for their own ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-study-planner-for-mobile-devices-2/ 

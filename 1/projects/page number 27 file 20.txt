@@ -1,0 +1,5 @@
+project 20 on page 27 
+
+Project title: ONLINE PERSONNEL MANAGEMENT INFORMATION SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Introduction An online personnel management system is a web based system that enables organizations to upload information about their employees so that their identity can always be verified. And the basic information about them and their work description can be easily managed. It is an electronic record keeping system that will aid the organization not to be dependent on flat files all the time for managing ... 
+Project link: https://project4topics.com/online-personnel-management-information-system-2/ 

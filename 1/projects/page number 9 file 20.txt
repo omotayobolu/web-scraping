@@ -1,0 +1,5 @@
+project 20 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED BUSINESS FORECASTING SYSTEM USING REGRESSION ANALYSIS 
+Project Abstract: ABSTRACT As the strategic planner bogs is mind with trying to predict the future performance of some available variable qualitatively, at the mercy of human limitations and time constraint. The COMPUTERIZED FORECASTING TECHNIQUES comes not only to increase his speed of operation but to save him the trouble of determining which method to use and if so applied assures of reliability of such forecast. The features of this package include ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-business-forecasting-system-using-regression-analysis/ 

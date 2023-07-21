@@ -1,0 +1,5 @@
+project 2 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED CHILD ABUSE DATABASE MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT The computerized child abuse database management system is a project proposed to create awareness among masses on the issues related to child abuse. The computerized system will keep tracks of all the suspicious incidents of child abuse by generating reports, aid law enforcement agency based on numerous details. Implementing this computerized system will play a crucial role in child welfare. The management system and data collection tools will meet with ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-child-abuse-database-management-system/ 

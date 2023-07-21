@@ -1,0 +1,5 @@
+project 17 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF STOCK MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT A stock management system is a key part of the supply chain and primarily aims to control the movement and storage of materials within a warehouse and process the associated transactions, including shipping, receiving, put away and picking. The systems also direct and optimize warehouse put away based on real-time information about the status of bin utilization. In times of economic slowdown, cutting costs is the major strategy used ... 
+Project link: https://project4topics.com/design-and-implementation-of-stock-management-system-3/ 

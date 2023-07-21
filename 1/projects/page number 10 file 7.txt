@@ -1,0 +1,5 @@
+project 7 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED STUDENT INFORMATION TRACKING SYSTEM 
+Project Abstract: Introduction A student information system (SIS) is software application for education establishments to manage student data. Also known as student information management system (SIMS), student records system (SRS), student management system (SMS), campus management system (CMS) or school management system (SMS).Â  The SIS is equivalent to an Enterprise Resource Planning or ERP system for a cooperate customer. As such, many of the issue with ERP system selection Methodology, implementation, and ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-student-information-tracking-system-2/ 

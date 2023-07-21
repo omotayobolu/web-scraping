@@ -1,0 +1,3 @@
+Project title: BUILDING AND ASSEMBLING A COMPUTER SYSTEM 
+Project link: https://project4topics.com/building-and-assembling-a-computer-system/ 
+Project abstract: ABSTRACT Cloning of Computer System is very essential in a computing area. This project focuses more on how computer system could be coupled and maintained effectively and efficiently without any fault during assembling of the system. Throughout this project we shall focus on each and every components needed for assembling and also there functions. The main reason why people go for assembling of system instead of buying a new system ...

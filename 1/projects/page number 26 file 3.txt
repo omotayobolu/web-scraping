@@ -1,0 +1,5 @@
+project 3 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF STUDENT ATTENDANCE SYSTEM USING FINGER PRINT 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 Background Of The Study The operation of any company is based on the contribution of staff either from executive level or operational level. For example, in a factory, the shop floor operation required full attendance of engineer, technical staff, and operation level staff before they start the operation. Therefore, the attendance system provides the information of the student existing to the a particular lecture. Their information ... 
+Project link: https://project4topics.com/design-and-implementation-of-student-attendance-system-using-finger-p/ 

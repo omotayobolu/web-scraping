@@ -1,0 +1,5 @@
+project 1 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED VERIFICATION SYSTEM FOR TERTIARY INSTITUTIONS 
+Project Abstract: ABSTRACT This work was produced out of the necessity to address the inherent problems that spring up during admission of students in the institution this effort is geared towards assisting the necessary bodies to verity students within a given time. It also addresses the issue of time wasting in admission/verification of students. It is also designed for easy associability to all and sundry. The software of this project when run, ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-verification-system-for-tertiary-institutions-3/ 

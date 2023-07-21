@@ -1,0 +1,5 @@
+project 19 on page 10 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE STUDENT RECORD SYSTEM 
+Project Abstract: ABSTRACT The difficulties students record office usually face in any higher institution, made us to realize that computer assisted record system is the best in processing students record in IMT ENUGU, Enugu.  This will save our school the embarrassment caused by students complaints at the end of working day. Our basic objective of designing and implementing an online students record system is the development of data Base computer program that ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-student-record-system-2/ 

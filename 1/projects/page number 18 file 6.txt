@@ -1,0 +1,5 @@
+project 6 on page 18 
+
+Project title: DESIGN AND IMPLEMENTATION OF STUDENT ATTENDANCE MONITORING SYSTEM USING FINGERPRINT 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1   Background of the Study Attendance management of students in institution can be rigorous using the conventional method of paper sheets and old file system method. Every academic institution poses some standards concerning how attendance is to be confirmed for student in classes, laboratory sessions and examination halls. That is why keeping the accurate record of attendance is very important.  The approach of using paper sheets and the ... 
+Project link: https://project4topics.com/design-and-implementation-of-student-attendance-monitoring-system-using-fingerprint-4/ 

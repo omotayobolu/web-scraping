@@ -1,0 +1,5 @@
+project 18 on page 1 
+
+Project title: DEVELOPMENT OF A MODEL FOR USER-CENTRIC CYBER DISASTER RECOVERY 
+Project Abstract: ABSTRACT In a world of interdependent economies and online transactions, a large volume of data is hosted on the cyberspace on daily basis. Cyber threats and attacks are steadily increasing. Most time, these threats and attacks are targeted at service providers but service users are greatly affected by the attacks due to their vulnerability level. When disasters knockdown the infrastructures of a single service provider, it will have ripple effects ... 
+Project link: https://project4topics.com/development-of-a-model-for-user-centric-cyber-disaster-recovery/ 

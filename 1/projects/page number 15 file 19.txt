@@ -1,0 +1,5 @@
+project 19 on page 15 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN INTERNET CAFE BILLING SYSTEM 
+Project Abstract: CHAPTER ONE 1.1                                              INTRODUCTION The internet stands for international network; it is a huge web of network system connecting million of people all over the world. In fact, internet is a network of network system; it is a global (world) network service. It was conceived by the United States government in 1969 and was first known as ARPANENT. The aim was to create a network that would allow users of ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-internet-cafe-billing-system-2/ 

@@ -1,0 +1,5 @@
+project 11 on page 23 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE PRISON MANAGEMENT SYSTEM 
+Project Abstract: ABSTRACT Prisoners’ management in Nigeria has long been a neglected area and has only recently been included in the 20-20 vision document under the e-governance. Currently, prisoner’s records are maintained in a very rudimentary way in the form of manual files and registers. This method of data management often results in human error, delay to retrieve information etc. Thus, An Online Prison Management System was designed and implemented to manage ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-prison-management-system-2/ 

@@ -1,0 +1,5 @@
+project 14 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERISED RESTAURANT MANAGEMENT INFORMATION SYSTEM 
+Project Abstract: ABSTRACT This project work is primarily designed to give an insight to computer based restaurant management information system. It is as a result of problem associated with the existing system which involves the use of manual method in keeping information in the system. So among the numerous problems associated with the existing system are; staff are spending far too much time chasing mistakes instead of tending to customers, sales going ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerised-restaurant-management-information-system-2/ 

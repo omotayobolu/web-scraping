@@ -1,0 +1,3 @@
+Project title: DESIGN AND IMPLEMENTATION OF VEHICLE IDENTIFICATION SYSTEM 
+Project link: https://project4topics.com/design-and-implementation-of-vehicle-identification-system/ 
+Project abstract: CHAPTER ONE  INTRODUCTION Background to the study  Vehicle Registration in Nigeria began over 100 years ago and the records have been essentially manual which in turn has not help to raise the efficiency of general automotive services in recent years. Today, computer has been discovered as a very efficient instrument, which has played a very significant role in adequate management of information. Besides, it has played more roles in country. ...

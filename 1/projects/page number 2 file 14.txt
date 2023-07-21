@@ -1,0 +1,5 @@
+project 14 on page 2 
+
+Project title: DESIGN AND IMPLEMENTATION OF A DEBIT CARD FRAUD DETENTION SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Background to the study Over the past 20 years banks and other financial services organizations have been developing and implementing electronic on-line systems to better serve their retail customers. These systems have involved an access device, usually a magnetic-striped card and an associated personal identification number (PIN), issued to customers by their financial institution (FI). These access devices, often called debit cards, can then be used by ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-debit-card-fraud-detention-system/ 

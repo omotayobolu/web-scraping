@@ -1,0 +1,5 @@
+project 18 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED APTITUDE TEST ADMINISTRATION SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Introduction An aptitude test or examination is an assessment Intended to measure a test-taker’s knowledge, skill, aptitude physical fitness, or classification in many other topics (e.g. beliefs). A test may be administered orally, on paper, on a computer, or in a confined area that requires a test taker to physically perform a set of skills. Tests vary in styles, rigor and requirements. For example, in a closed ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-aptitude-test-administration-system-2/ 

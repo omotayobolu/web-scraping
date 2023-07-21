@@ -1,0 +1,5 @@
+project 7 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF WEB-BASED ADVERTISEMENT MANAGEMENT SYSTEM 
+Project Abstract: TABLE OF CONTENT ABSTRACT LIST OF TABLES LIST OF FIGURES LIST OF ACRONYMS ACKNOWLEDGEMENTS CHAPTER 1 INTRODUCTION 1.1 Why Internet-Based Marketing? 1.2 How It Works? 2 TECHNOLOGIES USED 2.1 Google AdWords Application Programming Interface 2.2 Google AdSense Application Programming Interface 2.3 PHP 2.4 MySQL 2.5 MVC Architecture 3 ONLINE ADVERTISING 3.1 What is Online Advertising? 3.2 Advertising Metrics 3.3 Key Elements 3.4 Design and Implementation 4 ONLINE PUBLISHING 4.1 What ... 
+Project link: https://project4topics.com/design-and-implementation-of-web-based-advertisement-management-system-2/ 

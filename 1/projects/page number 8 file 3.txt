@@ -1,0 +1,5 @@
+project 3 on page 8 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED GRADING SYSTEM 
+Project Abstract: ABSTRACT One of the major and most concerned roles of academic institution is result computation and grading for this proves both the school and student academic performance and attainment. This research work studied the departmental result, its nature, mode of preparation, the hitches hindering smooth and fast production of departmental result. After the analysis, a new computerized system was developed for effective management of the department result. The new computerized ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-grading-system/ 

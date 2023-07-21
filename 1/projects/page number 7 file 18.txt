@@ -1,0 +1,5 @@
+project 18 on page 7 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE CAMPUS OPINION POLL SYSTEM 
+Project Abstract: ABSTRACT The paper aims at designing and implementing a simple and concise system that collects opinions of university students concerning a subject matter via simple voting. The quest to voice out one’s opinion or thoughts on an issue in an effective, anonymous and faster method remains a challenge for most tertiary institutions in Nigeria. This online opinion poll system aims at bridging the gap between the students and management of ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-campus-opinion-poll-system-4/ 

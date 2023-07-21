@@ -1,0 +1,5 @@
+project 9 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ON-LINE ENTRANCE EXAMINATION SYSTEM 
+Project Abstract: ABSTRACT The computer as an electronic and electromagnetic device is known for its versatile range of uses in every area of human endeavour more especially in scientific and mathematical calculations. Although little thought has been given to designing a complete and concise intelligence test on a computer system online in our present environment. However, in developed countries where computerized games and robot systems have been developed, computers have proved that ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-on-line-entrance-examination-system-3/ 

@@ -1,0 +1,5 @@
+project 16 on page 25 
+
+Project title: DESIGN AND IMPLEMENTATION OF WIRELESS VOICE OVER INTERNET PROTOCOL 
+Project Abstract: CHAPTER ONE 1.0     INTRODUCTION Voice over internet protocol (Voice Over/P, Vo/P) is a family of technologies, methodologies, communication protocols, and transmission techniques for the delivery of voice communications multimedia sessions over internet protocol (IP) networks, such as the internet. Other terms frequently encountered and often used synonymously with Vo/P are (P telephony. Internet telephony, Voice over broad band (VOBB), broadband telephony, and broadband phone. Content telephone refers to communication services-voice, fax ... 
+Project link: https://project4topics.com/design-and-implementation-of-wireless-voice-over-internet-protocol-2/ 

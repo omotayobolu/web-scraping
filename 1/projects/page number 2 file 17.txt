@@ -1,0 +1,5 @@
+project 17 on page 2 
+
+Project title: DESIGN AND IMPLEMENTATION OF EXAMINATION IDENTIFICATION SYSTEM 
+Project Abstract: ABSTRACT This project is on the design and development of portable and reliable fingerprint based student exam monitoring system that can be used to monitor examination performance of the student. It will eliminate the problems of manual method. The new system utilizes a portable fingerprint scanner as the input to acquire fingerprint images and notebook personal computer as the mobile terminal for the processing of the images and records attendance. ... 
+Project link: https://project4topics.com/design-and-implementation-of-examination-identification-system/ 

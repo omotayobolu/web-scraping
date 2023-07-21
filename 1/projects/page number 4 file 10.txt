@@ -1,0 +1,5 @@
+project 10 on page 4 
+
+Project title: DESIGN AND IMPLEMENTATION OF PERFORMANCE EVALUATION OF FAKE NEWS DETECTION USING MACHINE LEARNING ALGORITHM 
+Project Abstract: ABSTRACT  Fake news has continued to grow both locally and globally due to the increase of Online Social Media web forums like Facebook, Twitter and blogging. This has been propelled even further by smartphones and mobile data penetration locally. This study provides a fake news digital forensics tool through the design, development and implementation of a software application. The objective of this study is to identify and analyze the different ... 
+Project link: https://project4topics.com/design-and-implementation-of-performance-evaluation-of-fake-news-detection-using-machine-learning-algorithm/ 

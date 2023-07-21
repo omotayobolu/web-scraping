@@ -1,0 +1,5 @@
+project 15 on page 27 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN AUTOMATED TUTORIAL SYSTEM FOR LEARNING BIOLOGY 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.0 Introduction This chapter presents the introduction       to the study, background of the study. Aim and objectives of the study, statement of problem, significance of the study, scope of the study and definition of terms. 1.1 Theoretical Background The growing interest in automated learning also known as e-learning seems to be coming from several directions. These include organizations that have traditionally offered distance education programs either in ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-automated-tutorial-system-for-learning-biology-2/ 

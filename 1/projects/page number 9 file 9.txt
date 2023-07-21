@@ -1,0 +1,5 @@
+project 9 on page 9 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERISED STUDENTS’ IDENTITY CARD (ID CARD) SYSTEM 
+Project Abstract: Introduction An identity document is any document which may be used to verify aspects of a persons personality. If issued in the form of a small, mostly standard-sized card, it is usually called and identity card (IC). Countries which do not have formal identity documents may require informal documents. In the absence of formal identity document, driving licenses can be used in many countries as a method of proof of ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerised-students-identity-card-id-card-system/ 

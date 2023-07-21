@@ -1,0 +1,5 @@
+project 12 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ONLINE BANK VERIFICATION NUMBER (BVN) SYSTEM 
+Project Abstract: ABSTRACT The Bank Verification Number (BVN) became imperative following the increasing incidence of compromise on conventional security systems such as password and Personal Identification Number (PIN) of customers. The BVN involves identifying an individual based on physiological or behavioral attributes, such as fingerprint, signatures and others. The customers unique BVN is accepted as a means of identification across all banks system.On the basis of introducing the concepts of Bank Verification ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-online-bank-verification-number-bvn-system-4/ 

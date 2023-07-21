@@ -1,0 +1,5 @@
+project 19 on page 5 
+
+Project title: DEVELOPMENT OF AN IMPROVED PLAYFAIR CRYPTOSYSTEM USING RHOTRIX 
+Project Abstract: ABSTRACT Playfair is one of the best-known traditional ciphers but it is limited to different aspects such as: white space, numbers and other printable characters. The existing technique is based on the use of a 5 × 5 matrix. This algorithm can only allow the text that contains uppercase alphabets only. But many algorithms have been proposed which allow extension of playfair to: 6 × 6 matrix, 8 × 8 ... 
+Project link: https://project4topics.com/development-of-an-improved-playfair-cryptosystem-using-rhotrix/ 

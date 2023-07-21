@@ -1,0 +1,5 @@
+project 15 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ELECTRONIC HOSTEL MANAGEMENT SYSTEM 
+Project Abstract: GENERAL INTRODUCTION It is safe to say that most activities such as hostel allocation carried out in most universities in Nigeria are done manually. Therefore, there is a lot of strain on the individuals running the hostels. An E-Hostel system is simply software developed for managing most activities that take place in the hostels with the help of a hostel administrator. The goal of this research work is to provide ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-electronic-hostel-management-system-2/ 

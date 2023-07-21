@@ -1,0 +1,5 @@
+project 2 on page 1 
+
+Project title: MODELLING AN ENHANCED REMOTE PATIENT MEDICAL MONITORING SYSTEM IN NIGERIAN HOSPITALS 
+Project Abstract: ABSTRACT With the advancement of wireless technologies, wireless sensor networks can greatly expand our ability to monitor and track the conditions of patients in the healthcare area. Remote Medical Monitoring is one of the components of telemedicine capable of monitoring the vital signs of patients in a remote location and sending the results directly to a monitoring station. Ambulatory unobtrusive monitoring of the vital signs of the elderly and chronically ... 
+Project link: https://project4topics.com/modelling-an-enhanced-remote-patient-medical-monitoring-system-in-nigerian-hospitals/ 

@@ -1,0 +1,5 @@
+project 19 on page 1 
+
+Project title: DESIGN AND IMPLEMENTATION OF EFFICIENT EMERGENCY HEALTHCARE MANAGEMENT MODEL USING INTEGRATED DATABASE AND DATA MINING TECHNIQUE 
+Project Abstract: ABSTRACT Lack of adequate management and access to the patients’ previous health records especially in event of emergency makes health care sector inefficient. The aim of this research is to develop and implement an efficient emergency healthcare management model for storing both present and previous health related records of patients in Nigeria such that a wide range of hospitals could share the stored information for the purpose of making prompt ... 
+Project link: https://project4topics.com/design-and-implementation-of-efficient-emergency-healthcare-management-model-using-integrated-database-and-data-mining-technique/ 

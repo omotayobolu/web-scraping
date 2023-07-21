@@ -1,0 +1,5 @@
+project 16 on page 20 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ACADEMIC INFORMATION SYSTEM USING RELATIONAL DATABASE AND HTTP SEVER 
+Project Abstract: CHAPTER ONE 1.1          INTRODUCTION There is an outgrowing need for electronic accessories in a world where there is great necessity for speed, efficiency and perfection of work. Information factors efficiency, access to electronic device and relevant information is usually considered in the setting up of a relational database for a local network intranet. The internet has revolutionized the computer and communications world like nothing before. The invention of the telegraph, ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-academic-information-system-using-relational-database-and-http-sever/ 

@@ -1,0 +1,5 @@
+project 13 on page 3 
+
+Project title: DESIGN AND IMPLEMENTATION OF NYSC TICKETING SYSTEM 
+Project Abstract: ABSTRACT   The main thrust of this study is to work on the Design and implementation of Nysc Ticketing System. This research project addresses the problems faced by NYSC corps members during their registration. The project studies some issues on implementation and also recommendations on how Online NYSC Ticketing System web portal can take place effectively. This project also recommends a Decision Support System to deal with the users’s requirement. ... 
+Project link: https://project4topics.com/design-and-implementation-of-nysc-ticketing-system/ 

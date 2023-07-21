@@ -1,0 +1,5 @@
+project 2 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTER BASED QUALITY ASSURANCE MONITORING SYSTEM 
+Project Abstract: ABSTRACT This project is about the design and implementation of a computer based quality assurance monitoring system. A quality assurance monitoring is very necessary as it will contribute to the corporate performance of an organization. The method used in implementing the design was based on top-down approach.  This is done by starting with the general concept of what is required by the existing system that it is lacking and breaking ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computer-based-quality-assurance-monitoring-system-4/ 

@@ -1,0 +1,5 @@
+project 9 on page 26 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED GAME 
+Project Abstract: CHAPTER ONE INTRODUCTION 1.1 BACKGROUND OF THE STUDY Ludo (latin word “ludus” -“I play”) is a board game for two to four players, in which the players race their four tokens from start to finish according to die rolls. Like other cross and circle games, Ludo is derived from the Indian game Pachisi , but simpler. The game and its variants are popular in many countries and under various names. ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-game-2/ 

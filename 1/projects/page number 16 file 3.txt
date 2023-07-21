@@ -1,0 +1,5 @@
+project 3 on page 16 
+
+Project title: DESIGN AND IMPLEMENTATION OF AN ELECTRONIC GOVERNMENT SYSTEM (E GOVERNMENT) 
+Project Abstract: ABSTRACT Given the fact that more and more governments invest heavily in e-government design and implementation, e-government has become an evolving and important research area in the information technology field. Most, if not all, currently published e-government strategies are based on successful experiences from developed countries, which may not be directly applicable to developing countries. Based on a literature review, this study summarizes differences between developed/developing countries. It identifies key ... 
+Project link: https://project4topics.com/design-and-implementation-of-an-electronic-government-system-e-government-2/ 

@@ -1,0 +1,5 @@
+project 16 on page 14 
+
+Project title: DESIGN AND IMPLEMENTATION OF COMPUTERIZED PHARMACY MANAGEMENT SYSTEM 
+Project Abstract: CHAPTER ONE 1.0 INTRODUCTION Pharmacy management system is a management system that is designed to improve accuracy and to enhance safety and efficiency in the pharmaceutical store. It is a computer based system which helps the Pharmacist to improve inventory management, cost, medical safety etc. The system allows the user to enter a manufacturing and expiry date for a particular  product or drug during opening stock and sales transaction. The ... 
+Project link: https://project4topics.com/design-and-implementation-of-computerized-pharmacy-management-system-2/ 

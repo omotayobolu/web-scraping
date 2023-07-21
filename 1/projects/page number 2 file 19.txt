@@ -1,0 +1,5 @@
+project 19 on page 2 
+
+Project title: COMPUTERIZED STUDENTS REGISTRATION SYSTEM 
+Project Abstract: ABSTRACT This project is carried out to design a Computerized Students Registration System in Faculty of Information and Commutation Technology, Osun State Polytechnic Iree, cannot be over-emphasized, due to the need of the review of the old system. The old system is no more adequate due to the associated problems. The new system have to be design in order to correct short coming. The new system is in modular forms, ... 
+Project link: https://project4topics.com/computerized-students-registration-system-2/ 

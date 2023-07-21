@@ -1,0 +1,5 @@
+project 8 on page 21 
+
+Project title: DESIGN AND IMPLEMENTATION OF NETWORK MONITORING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION Network monitoring takes note of slow or failing systems and notifies the network administrator of such occurrences. Such notifications can take the form of email massage, page alerts, or plain old phone calls. No matter what form they take, network problem massage should take the highest priority. Network monitoring should be running while other systems are performing their functions that is vital. You need to set aside ... 
+Project link: https://project4topics.com/design-and-implementation-of-network-monitoring-system-2/ 

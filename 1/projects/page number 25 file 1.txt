@@ -1,0 +1,5 @@
+project 1 on page 25 
+
+Project title: DESIGN AND IMPLEMENTATION OF ONLINE FOOD ORDERING SYSTEM 
+Project Abstract: CHAPTER ONE INTRODUCTION  1.1 BACKGROUND OF STUDY The online food ordering system is one of the latest services most fast food restaurants in the western world are adopting. With this method, food is ordered online and delivered to the customer. This is made possible through the use of electronic payment system. Customers pay with their credit cards, although credit card customers can be served even before they make payment either ... 
+Project link: https://project4topics.com/design-and-implementation-of-online-food-ordering-system-2/ 

@@ -1,0 +1,5 @@
+project 13 on page 12 
+
+Project title: DESIGN AND IMPLEMENTATION OF A COMPUTERIZED ANTENATAL INFORMATION SYSTEM 
+Project Abstract: ABSTRACT The Antenatal unit in the outpatient Department of any hospital letters for medical advices and treatments to payment mothers before delivery. Antenatal care is all about material and fetal care, to see that the baby is developing without malformation and giving mothers advice an what to eat, type of exercise needed scanning and pathology rest. This project work tends to design and implement a system (computerized) that offers information ... 
+Project link: https://project4topics.com/design-and-implementation-of-a-computerized-antenatal-information-system-2/ 
