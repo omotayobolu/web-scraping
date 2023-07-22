@@ -13,12 +13,11 @@ def computer_engineering_projects():
         project_link = project.h3.a['href']
         project_abstract = project.find('div', class_='jeg_post_excerpt').p.text
        
-        with open(f"eng_projects/{index}.txt", 'w') as f:
+        with open(f"eng_projects/file {index+1}.txt", 'w') as f:
             f.write(f"Project title: {project_title} \n")
             f.write(f"Project link: {project_link} \n")
             f.write(f"Project abstract: {project_abstract}")    
-        print(f"File saved: {index}")
-        print("")
-        f.close()
+            print(f"File saved: {index+1}")
+            print("")
     
 computer_engineering_projects()    

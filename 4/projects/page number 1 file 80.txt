@@ -1,0 +1,3 @@
+Page 1 file 80
+Project title: A Hybridized Recommendation System On Movie Data Using Content-Based And Collaborative Filtering 
+Project link: https://eduprojecttopics.com/product/a-hybridized-recommendation-system-on-movie-data-using-content-based-and-collaborative-filtering/ 
